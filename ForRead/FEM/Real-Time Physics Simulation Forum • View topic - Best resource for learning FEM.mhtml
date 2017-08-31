@@ -1,0 +1,2429 @@
+From: <Saved by Blink>
+Subject: Real-Time Physics Simulation Forum ? View topic - Best resource for learning FEM
+Date: Fri, 1 Jun 2017 02:26:10 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----"
+
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: text/html
+Content-ID: <frame-28-ddbe52a1-83dc-494c-9d51-7d2555d919c0@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/viewtopic.php?f=4&t=7241
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" dir=3D"ltr" lang=3D"en-gb" xml:lang=3D"en-gb"><head><meta h=
+ttp-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+
+<meta http-equiv=3D"content-language" content=3D"en-gb">
+<meta http-equiv=3D"content-style-type" content=3D"text/css">
+<meta http-equiv=3D"imagetoolbar" content=3D"no">
+<meta name=3D"resource-type" content=3D"document">
+<meta name=3D"distribution" content=3D"global">
+<meta name=3D"keywords" content=3D"">
+<meta name=3D"description" content=3D"">
+
+<title>Real-Time Physics Simulation Forum =E2=80=A2 View topic - Best resou=
+rce for learning FEM</title>
+
+<link rel=3D"alternate" type=3D"application/atom+xml" title=3D"Feed - Real-=
+Time Physics Simulation Forum" href=3D"http://www.bulletphysics.org/Bullet/=
+phpBB3/feed.php"><link rel=3D"alternate" type=3D"application/atom+xml" titl=
+e=3D"Feed - All forums" href=3D"http://www.bulletphysics.org/Bullet/phpBB3/=
+feed.php?mode=3Dforums"><link rel=3D"alternate" type=3D"application/atom+xm=
+l" title=3D"Feed - Forum - Research and development discussion about Collis=
+ion Detection and Physics Simulation" href=3D"http://www.bulletphysics.org/=
+Bullet/phpBB3/feed.php?f=3D4"><link rel=3D"alternate" type=3D"application/a=
+tom+xml" title=3D"Feed - Topic - Best resource for learning FEM" href=3D"ht=
+tp://www.bulletphysics.org/Bullet/phpBB3/feed.php?f=3D4&amp;t=3D7241">
+
+<link rel=3D"stylesheet" href=3D"http://www.bulletphysics.org/wordpress/wor=
+dpress_style.css" type=3D"text/css">
+<link rel=3D"stylesheet" href=3D"http://www.bulletphysics.org/Bullet/phpBB3=
+/styles/subsilver2/theme/stylesheet.css" type=3D"text/css">
+
+<style type=3D"text/css">=20
+
+=20
+=20
+div#wrapper {
+	width: 99%;
+		}
+=20
+=20
+div#container {
+	padding: 0;		}
+=20
+.colone {width: 200px;}
+.colthree {width: 200px;}
+=09
+table#logoarea {
+	border-spacing: 0px;
+		}
+=09
+.logo {
+	margin: 10px 10px 10px 10px;	}
+=20
+h1.blogtitle {
+	text-align: center;
+margin: 0;
+padding:0;
+letter-spacing:-1px;
+line-height: 1.0em;
+=20
+			font-family: tahoma, arial, sans-serif;
+font-size: 240%;	}
+=09
+h1.blogtitle a:link,=20
+h1.blogtitle a:visited,=20
+h1.blogtitle a:active {
+	color: #666666;
+	font-weight: bold;
+	}
+=09
+h1.blogtitle a:hover {
+	color: #000000;
+	font-weight: bold;
+	}
+=20
+.horbar1 {
+	height: 5px;
+background: #ffffff;
+border-top: dashed 1px #cccccc;	}
+=09
+.horbar2 {=20
+	height: 5px;
+background: #ffffff;
+border-bottom: dashed 1px #cccccc;	}=09
+=20
+=09
+div.post {
+	margin: 0 0 30px 0;
+background: #ffffe0;
+border: solid 1px #ccc;	}
+=20
+.sticky {
+	background: #eee url(http://www.bulletphysics.org/wordpress/wp-content/the=
+mes/atahualpa/images/sticky.gif) 99% 5% no-repeat;
+border: dashed 1px #ccc;
+padding: 10px;	}
+=20
+div.post-kicker {
+	margin: 0 0 5px 0;
+	}
+=20
+div.post-kicker a:link,=20
+div.post-kicker a:visited,=20
+div.post-kicker a:active {
+	color: #000000;
+text-decoration: none;
+text-transform: uppercase;	}
+=20
+div.post-kicker a:hover {
+	color: #cc0000;	}
+=20
+div.post-headline {
+		}
+=20
+div.post-headline h2 {
+	padding: 0;
+margin: 0;
+	}
+=20
+div.post-headline h2 a:link,=20
+div.post-headline h2 a:visited,=20
+div.post-headline h2 a:active {
+	color: #666666;
+text-decoration: none;
+	}
+=20
+div.post-headline h2 a:hover {
+	color: #000000;
+text-decoration: none;
+	}
+=09
+div.post-byline {
+	margin: 5px 0 10px 0;	}
+=20
+div.post-byline a:link,=20
+div.post-byline a:visited,=20
+div.post-byline a:active {
+		}
+=20
+div.post-byline a:hover {
+		}
+=20
+div.post-bodycopy {
+		}
+=09
+div.post-footer {
+	margin: 0;
+padding: 5px;
+background: #eeeeee;
+color: #666;
+line-height: 18px;	}
+=20
+div.post-footer a:link,=20
+div.post-footer a:visited,=20
+div.post-footer a:active {
+	color: #333;
+font-weight: normal;
+text-decoration: none;	}=09
+=20
+div.post-footer a:hover {
+	color: #333;
+font-weight: normal;
+text-decoration: underline;	}
+=20
+.navigation-top {
+	margin: 0 0 10px 0;
+padding: 10px 0 10px 0;
+border-bottom: dashed 1px #ccc;	}
+=20
+.navigation-middle {
+	margin: 10px 0 20px 0;
+padding: 10px 0 10px 0;
+border-top: dashed 1px #ccc;
+border-bottom: dashed 1px #ccc;	}
+=09
+.navigation-bottom {
+	margin: 20px 0 0 0;
+padding: 10px 0 10px 0;
+border-top: dashed 1px #ccc;	}
+=20
+.navigation-comments-above {
+	margin: 0 0 10px 0;
+padding: 5px 0 5px 0;	}
+=09
+.navigation-comments-below {
+	margin: 0 0 10px 0;
+padding: 5px 0 5px 0;	}
+=09
+=09
+div#menu1 ul.rMenu-ver, div#menu1 ul.rMenu-ver ul
+	{
+	width: 11em;=09
+	}
+=20
+div#menu2 ul.rMenu-ver, div#menu2 ul.rMenu-ver ul
+	{
+	width: 11em;=09
+	}
+=09
+ul.rMenu
+	{
+	background: #FFFFFF;
+	border: ;
+	}
+=20
+ul#rmenu
+	{
+	background: #777777;
+	border: solid 1px #000000;
+	}
+=20
+ul.rMenu li a
+	{
+	border: ;=09
+	}
+=20
+ul#rmenu li a
+	{
+	border: solid 1px #000000;=09
+	}
+=20
+div#menu1 ul.rMenu-ver
+	{
+	border-top: ;=09
+	}
+=20
+div#menu2 ul.rMenu-ver
+	{
+	border-top: solid 1px #000000;=09
+	}
+=09
+ul.rMenu li a:link, ul.rMenu li a:hover, ul.rMenu li a:visited, ul.rMenu li=
+ a:active
+	{
+	color: #777777;
+	text-transform: capitalize;
+	font: 11px Arial, Verdana, sans-serif; =20
+	}
+=20
+ul#rmenu li a:link, ul#rmenu li a:hover, ul#rmenu li a:visited, ul#rmenu li=
+ a:active
+	{
+	color: #ffffff;
+	text-transform: uppercase;
+	font: 11px Arial, Verdana, sans-serif;=20
+	}
+=09
+ul.rMenu li
+	{
+	background-color: #FFFFFF;=09
+	}
+=20
+ul#rmenu li
+	{
+	background-color: #777777;=09
+	}
+=09
+ul.rMenu li:hover,
+ul.rMenu li.sfhover
+	{
+	background-color: #DDDDDD;=09
+	}
+=20
+ul#rmenu li:hover,
+ul#rmenu li.sfhover
+	{
+	background-color: #000000;=09
+	}
+=20
+ul.rMenu li.current_page_item a:link,=20
+ul.rMenu li.current_page_item a:active,=20
+ul.rMenu li.current_page_item a:hover,=20
+ul.rMenu li.current_page_item a:visited,=20
+ul.rMenu li a:hover
+	{
+	background-color: #EEEEEE;
+	color: #000000;
+	}
+=20
+ul#rmenu li.current-cat a:link,=20
+ul#rmenu li.current-cat a:active,=20
+ul#rmenu li.current-cat a:hover,=20
+ul#rmenu li.current-cat a:visited,=20
+ul#rmenu li a:hover
+	{
+	background-color: #cc0000;
+	color: #ffffff;
+	}
+=20
+div#menu1 ul.rMenu li.rMenu-expand a,
+div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand a,
+div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand a,
+div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu=
+-expand a,
+div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu=
+-expand li.rMenu-expand a=20
+	{
+	background-image: url(http://www.bulletphysics.org/wordpress/wp-content/th=
+emes/atahualpa/images/expand-right.gif);
+	}
+=20
+div#menu2 ul.rMenu li.rMenu-expand a,
+div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand a,
+div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand a,
+div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu=
+-expand a,
+div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu=
+-expand li.rMenu-expand a=20
+	{
+	background-image: url(http://www.bulletphysics.org/wordpress/wp-content/th=
+emes/atahualpa/images/expand-right-white.gif);
+	}
+=09
+div#menu1 ul.rMenu-hor li.rMenu-expand a
+	{
+	background-image: url(http://www.bulletphysics.org/wordpress/wp-content/th=
+emes/atahualpa/images/expand-down.gif);
+	}
+=09
+div#menu2 ul.rMenu-hor li.rMenu-expand a
+	{
+	background-image: url(http://www.bulletphysics.org/wordpress/wp-content/th=
+emes/atahualpa/images/expand-down-white.gif);
+	}
+	</style>
+=09
+
+
+</head>
+<body class=3D"ltr" text-align:left;=3D"">
+<a name=3D"top"></a>
+<div id=3D"wrapper">=20
+
+=09
+		<!-- Header -->=20
+		=20
+=20
+		<!--TEST
+http://bulletphysics.org/wordpress/
+http://code.google.com/p/bullet/downloads/list/
+--><!--TEST
+http://bulletphysics.org/wordpress/
+http://bulletphysics.org/Bullet/phpBB3/
+--><!--TEST
+http://bulletphysics.org/wordpress/
+http://bulletphysics.com/Bullet/BulletFull/
+--><!--TEST
+http://bulletphysics.org/wordpress/
+http://bulletphysics.com/Bullet/BulletPhysics2.74_2.htm/
+--><div id=3D"menu1"><ul id=3D"rmenu2" class=3D"clearfix rMenu-hor rMenu">=
+=20
+<li class=3D"page_item"><a href=3D"http://bulletphysics.org/wordpress/" tit=
+le=3D"Physics Simulation Forum">Home</a></li>=20
+<li class=3D"page_item page-item-30"><a href=3D"https://github.com/bulletph=
+ysics/bullet3/releases">Bullet Download</a></li>=20
+<li class=3D"page_item page-item-70"><a href=3D"http://bulletphysics.org/do=
+cumentation/">Documentation</a></li>
+<li class=3D"page_item current_page_item"><a href=3D"http://bulletphysics.o=
+rg/Bullet/phpBB3">Forum</a></li>=20
+</ul></div>=20
+<table id=3D"logoarea" cellpadding=3D"0" cellspacing=3D"0" border=3D"0" wid=
+th=3D"100%"><tbody><tr><td valign=3D"middle" class=3D"logoarea-logo"><a hre=
+f=3D"http://bulletphysics.org/wordpress/"><img class=3D"logo" src=3D"http:/=
+/bulletphysics.org/wordpress/wp-content/themes/atahualpa333/images/bullet_l=
+ogo-210-86.png" alt=3D"Physics Simulation Forum"></a></td><td valign=3D"mid=
+dle" class=3D"logoarea-title"><h1 class=3D"blogtitle"><a href=3D"http://bul=
+letphysics.org/wordpress/">Physics Simulation Forum</a></h1></td></tr></tbo=
+dy></table><div class=3D"horbar1">&nbsp;</div>=20
+		=20
+		<!-- / Header -->=20
+
+
+
+	<div id=3D"menubar">
+		<table width=3D"100%" cellspacing=3D"0">
+		<tbody><tr>
+			<td class=3D"genmed">
+				<a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/ucp.php?mode=3Dlo=
+gin&amp;sid=3Db558996b9f2d38c899c971f2e428fa53"><img src=3D"http://www.bull=
+etphysics.org/Bullet/phpBB3/styles/subsilver2/theme/images/icon_mini_login.=
+gif" width=3D"12" height=3D"13" alt=3D"*"> Login</a>&nbsp; &nbsp;<a href=3D=
+"http://www.bulletphysics.org/Bullet/phpBB3/ucp.php?mode=3Dregister&amp;sid=
+=3Db558996b9f2d38c899c971f2e428fa53"><img src=3D"http://www.bulletphysics.o=
+rg/Bullet/phpBB3/styles/subsilver2/theme/images/icon_mini_register.gif" wid=
+th=3D"12" height=3D"13" alt=3D"*"> Register</a>
+				=09
+			</td>
+			<td class=3D"genmed" align=3D"right">
+
+
+
+				<a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/faq.php?sid=3Db55=
+8996b9f2d38c899c971f2e428fa53"><img src=3D"http://www.bulletphysics.org/Bul=
+let/phpBB3/styles/subsilver2/theme/images/icon_mini_faq.gif" width=3D"12" h=
+eight=3D"13" alt=3D"*"> FAQ</a>
+				&nbsp; &nbsp;<a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/sear=
+ch.php?sid=3Db558996b9f2d38c899c971f2e428fa53"><img src=3D"http://www.bulle=
+tphysics.org/Bullet/phpBB3/styles/subsilver2/theme/images/icon_mini_search.=
+gif" width=3D"12" height=3D"13" alt=3D"*"> Search</a>
+			</td>
+		</tr>
+		</tbody></table>
+	</div>
+
+
+<div id=3D"wrapcentre">
+
+=09
+	<p class=3D"searchbar">
+		<span style=3D"float: left;"><a href=3D"http://www.bulletphysics.org/Bull=
+et/phpBB3/search.php?search_id=3Dunanswered&amp;sid=3Db558996b9f2d38c899c97=
+1f2e428fa53">View unanswered posts</a> | <a href=3D"http://www.bulletphysic=
+s.org/Bullet/phpBB3/search.php?search_id=3Dactive_topics&amp;sid=3Db558996b=
+9f2d38c899c971f2e428fa53">View active topics</a></span>
+	=09
+	</p>
+=09
+
+	<br style=3D"clear: both;">
+
+	<table class=3D"tablebg" width=3D"100%" cellspacing=3D"1" cellpadding=3D"0=
+" style=3D"margin-top: 5px;">
+	<tbody><tr>
+		<td class=3D"row1">
+			<p class=3D"breadcrumbs"><a href=3D"http://www.bulletphysics.org/Bullet/=
+phpBB3/index.php?sid=3Db558996b9f2d38c899c971f2e428fa53">Board index</a> =
+=C2=BB <a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/viewforum.php?=
+f=3D19&amp;sid=3Db558996b9f2d38c899c971f2e428fa53">RESEARCH AND DEVELOPMENT=
+ IN COLLISION DETECTION &amp; PHYSICS. Don't post Bullet support questions =
+here!</a> =C2=BB <a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/view=
+forum.php?f=3D4&amp;sid=3Db558996b9f2d38c899c971f2e428fa53">Research and de=
+velopment discussion about Collision Detection and Physics Simulation</a></=
+p>
+			<p class=3D"datetime">All times are UTC </p>
+		</td>
+	</tr>
+	</tbody></table>
+
+	<br>
+
+<div id=3D"pageheader">
+	<h2><a class=3D"titles" href=3D"http://www.bulletphysics.org/Bullet/phpBB3=
+/viewtopic.php?f=3D4&amp;t=3D7241&amp;sid=3Db558996b9f2d38c899c971f2e428fa5=
+3">Best resource for learning FEM</a></h2>
+
+
+</div>
+
+<br clear=3D"all"><br>
+
+<div id=3D"pagecontent">
+
+	<table width=3D"100%" cellspacing=3D"1">
+	<tbody><tr>
+		<td align=3D"left" valign=3D"middle" nowrap=3D"nowrap">
+		<a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/posting.php?mode=3D=
+post&amp;f=3D4&amp;sid=3Db558996b9f2d38c899c971f2e428fa53"><img src=3D"http=
+://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imageset/en/button=
+_topic_new.gif" alt=3D"Post new topic" title=3D"Post new topic"></a>&nbsp;<=
+a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/posting.php?mode=3Drep=
+ly&amp;f=3D4&amp;t=3D7241&amp;sid=3Db558996b9f2d38c899c971f2e428fa53"><img =
+src=3D"http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imagese=
+t/en/button_topic_reply.gif" alt=3D"Reply to topic" title=3D"Reply to topic=
+"></a>
+		</td>
+	=09
+			<td class=3D"nav" valign=3D"middle" nowrap=3D"nowrap">&nbsp;Page <strong=
+>1</strong> of <strong>1</strong><br></td>
+			<td class=3D"gensmall" nowrap=3D"nowrap">&nbsp;[ 3 posts ]&nbsp;</td>
+			<td class=3D"gensmall" width=3D"100%" align=3D"right" nowrap=3D"nowrap">=
+</td>
+	=09
+	</tr>
+	</tbody></table>
+
+	<table class=3D"tablebg" width=3D"100%" cellspacing=3D"1">
+	<tbody><tr>
+		<td class=3D"cat">
+			<table width=3D"100%" cellspacing=3D"0">
+			<tbody><tr>
+				<td class=3D"nav" nowrap=3D"nowrap">&nbsp;
+				<a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/viewtopic.php?f=
+=3D4&amp;t=3D7241&amp;sid=3Db558996b9f2d38c899c971f2e428fa53&amp;view=3Dpri=
+nt" title=3D"Print view">Print view</a>
+				</td>
+				<td class=3D"nav" align=3D"right" nowrap=3D"nowrap"><a href=3D"http://w=
+ww.bulletphysics.org/Bullet/phpBB3/viewtopic.php?f=3D4&amp;t=3D7241&amp;vie=
+w=3Dprevious&amp;sid=3Db558996b9f2d38c899c971f2e428fa53">Previous topic</a>=
+ | <a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/viewtopic.php?f=3D=
+4&amp;t=3D7241&amp;view=3Dnext&amp;sid=3Db558996b9f2d38c899c971f2e428fa53">=
+Next topic</a>&nbsp;</td>
+			</tr>
+			</tbody></table>
+		</td>
+	</tr>
+
+	</tbody></table>
+
+
+	<table class=3D"tablebg" width=3D"100%" cellspacing=3D"1">
+=09
+		<tbody><tr>
+			<th>Author</th>
+			<th>Message</th>
+		</tr>
+	<tr class=3D"row1">
+
+			<td align=3D"center" valign=3D"middle">
+				<a name=3D"p24769"></a>
+				<b class=3D"postauthor">mobeen</b>
+			</td>
+			<td width=3D"100%" height=3D"25">
+				<table width=3D"100%" cellspacing=3D"0">
+				<tbody><tr>
+			=09
+					<td class=3D"gensmall" width=3D"100%"><div style=3D"float: left;">&nbs=
+p;<b>Post subject:</b> <a href=3D"http://www.bulletphysics.org/Bullet/phpBB=
+3/viewtopic.php?f=3D4&amp;t=3D7241#p24769">Best resource for learning FEM</=
+a></div><div style=3D"float: right;"><a href=3D"http://www.bulletphysics.or=
+g/Bullet/phpBB3/viewtopic.php?p=3D24769&amp;sid=3Db558996b9f2d38c899c971f2e=
+428fa53#p24769"><img src=3D"http://www.bulletphysics.org/Bullet/phpBB3/styl=
+es/subsilver2/imageset/icon_post_target.gif" width=3D"12" height=3D"9" alt=
+=3D"Post" title=3D"Post"></a><b>Posted:</b> Mon Aug 08, 2011 9:55 pm&nbsp;<=
+/div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class=3D"row1">
+
+			<td valign=3D"top" class=3D"profile">
+				<table cellspacing=3D"4" align=3D"center" width=3D"150">
+		=09
+				<tbody><tr>
+					<td><img src=3D"http://www.bulletphysics.org/Bullet/phpBB3/styles/subs=
+ilver2/imageset/en/icon_user_offline.gif" alt=3D"Offline" title=3D"Offline"=
+></td>
+				</tr>
+		=09
+				</tbody></table>
+
+				<span class=3D"postdetails">
+					<br><b>Joined:</b> Thu May 05, 2011 11:47 am<br><b>Posts:</b> 122
+				</span>
+
+			</td>
+			<td valign=3D"top">
+				<table width=3D"100%" cellspacing=3D"5">
+				<tbody><tr>
+					<td>
+				=09
+
+						<div class=3D"postbody">Hi all,<br>  I am looking for best source for=
+ learning FEMs for soft bodies. I have already looked into the 2 chapters 9=
+-10 in Physics based Animation by Kenney Erleben but it is mostly dealing w=
+ith Linear FEM (it covers the basics very well). In addition, I was also re=
+directed to chapter 10 of game physics pearls. <br>I know how to do both li=
+near FEM and corotational FEM (stiffness warping). <br>What I want to know =
+is if there a recent thesis/survey paper/book/course/reference that lists a=
+ll of the FEM based deformation method to the current state of the art for =
+soft body modeling.</div>
+
+					<br clear=3D"all"><br>
+
+						<table width=3D"100%" cellspacing=3D"0">
+						<tbody><tr valign=3D"middle">
+							<td class=3D"gensmall" align=3D"right">
+						=09
+							</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class=3D"row1">
+
+			<td class=3D"profile"><strong><a href=3D"http://www.bulletphysics.org/Bu=
+llet/phpBB3/viewtopic.php?f=3D4&amp;t=3D7241#wrapheader">Top</a></strong></=
+td>
+			<td><div class=3D"gensmall" style=3D"float: left;">&nbsp;<a href=3D"http=
+://www.bulletphysics.org/Bullet/phpBB3/memberlist.php?mode=3Dviewprofile&am=
+p;u=3D8124&amp;sid=3Db558996b9f2d38c899c971f2e428fa53"><img src=3D"http://w=
+ww.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imageset/en/icon_user_=
+profile.gif" alt=3D"Profile" title=3D"Profile"></a> &nbsp;</div> <div class=
+=3D"gensmall" style=3D"float: right;">&nbsp;</div></td>
+=09
+		</tr>
+
+	<tr>
+		<td class=3D"spacer" colspan=3D"2" height=3D"1"><img src=3D"http://www.bu=
+lletphysics.org/Bullet/phpBB3/images/spacer.gif" alt=3D"" width=3D"1" heigh=
+t=3D"1"></td>
+	</tr>
+	</tbody></table>
+
+	<table class=3D"tablebg" width=3D"100%" cellspacing=3D"1">
+	<tbody><tr class=3D"row2">
+
+			<td align=3D"center" valign=3D"middle">
+				<a name=3D"p24779"></a>
+				<b class=3D"postauthor">Erwin Coumans</b>
+			</td>
+			<td width=3D"100%" height=3D"25">
+				<table width=3D"100%" cellspacing=3D"0">
+				<tbody><tr>
+			=09
+					<td class=3D"gensmall" width=3D"100%"><div style=3D"float: left;">&nbs=
+p;<b>Post subject:</b> <a href=3D"http://www.bulletphysics.org/Bullet/phpBB=
+3/viewtopic.php?f=3D4&amp;t=3D7241#p24779">Re: Best resource for learning F=
+EM</a></div><div style=3D"float: right;"><a href=3D"http://www.bulletphysic=
+s.org/Bullet/phpBB3/viewtopic.php?p=3D24779&amp;sid=3Db558996b9f2d38c899c97=
+1f2e428fa53#p24779"><img src=3D"http://www.bulletphysics.org/Bullet/phpBB3/=
+styles/subsilver2/imageset/icon_post_target.gif" width=3D"12" height=3D"9" =
+alt=3D"Post" title=3D"Post"></a><b>Posted:</b> Tue Aug 09, 2011 3:23 pm&nbs=
+p;</div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class=3D"row2">
+
+			<td valign=3D"top" class=3D"profile">
+				<table cellspacing=3D"4" align=3D"center" width=3D"150">
+		=09
+				<tbody><tr>
+					<td><img src=3D"http://www.bulletphysics.org/Bullet/phpBB3/styles/subs=
+ilver2/imageset/en/icon_user_offline.gif" alt=3D"Offline" title=3D"Offline"=
+></td>
+				</tr>
+		=09
+				<tr>
+					<td class=3D"postdetails">Site Admin</td>
+				</tr>
+		=09
+				<tr>
+					<td><img src=3D"http://www.bulletphysics.org/Bullet/phpBB3/download/fi=
+le.php?avatar=3D2.gif" width=3D"74" height=3D"71" alt=3D"User avatar"></td>
+				</tr>
+		=09
+				</tbody></table>
+
+				<span class=3D"postdetails">
+					<br><b>Joined:</b> Sun Jun 26, 2005 6:43 pm<br><b>Posts:</b> 4050<br><=
+b>Location:</b> California, USA
+				</span>
+
+			</td>
+			<td valign=3D"top">
+				<table width=3D"100%" cellspacing=3D"5">
+				<tbody><tr>
+					<td>
+				=09
+
+						<div class=3D"postbody">As far as I know, corotational fem (stiffness=
+ warping) is the state of the art of real-time FEM, so the two resources se=
+em suitable although they don't cover collision detection properly. The sam=
+e method is also described in the paper about Pixelux DMM here: <!-- m --><=
+a class=3D"postlink" href=3D"http://graphics.cs.berkeley.edu/papers/Parker-=
+RTD-2009-08">http://graphics.cs.berkeley.edu/papers/ ... TD-2009-08</a><!--=
+ m --><br>In case someone missed it, I recently posted a link to source cod=
+e of working FEM under the permissive Zlib license, extracted from the Open=
+Tissue framework <a href=3D"http://bulletphysics.org/Bullet/phpBB3/viewtopi=
+c.php?f=3D6&amp;t=3D7013&amp;start=3D30#p24507" class=3D"postlink">here</a>=
+.<br><br>The SOFA framework is showing real-time corotational FEM running o=
+n the GPU. They can simulate 45k tetrahedra in real-time (90FPS) on the mos=
+t recent NVIDIA GPUs.<br><br>You can checkout <!-- m --><a class=3D"postlin=
+k" href=3D"svn://scm.gforge.inria.fr/svn/sofa/branches/Sofa-1.0">svn://scm.=
+gforge.inria.fr/svn/sofa/branches/Sofa-1.0</a><!-- m --> and see the Sofa-1=
+.0\modules\sofa\gpu\CUDA folder.<br><br>See also <!-- m --><a class=3D"post=
+link" href=3D"http://codrt.free.fr/allardj/pub/2011/ACF11a">http://codrt.fr=
+ee.fr/allardj/pub/2011/ACF11a</a><!-- m --> and <!-- m --><a class=3D"postl=
+ink" href=3D"http://codrt.free.fr/allardj/">http://codrt.free.fr/allardj/</=
+a><!-- m --><br>The upcoming <a href=3D"http://www.amazon.com/GPU-Computing=
+-Gems-Jade-Applications/dp/0123859638" class=3D"postlink">GPU Computing Gem=
+s Jade edition</a> has a chapter on this.<br>Thanks,<br>Erwin</div>
+
+					<br clear=3D"all"><br>
+
+						<table width=3D"100%" cellspacing=3D"0">
+						<tbody><tr valign=3D"middle">
+							<td class=3D"gensmall" align=3D"right">
+						=09
+							</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class=3D"row2">
+
+			<td class=3D"profile"><strong><a href=3D"http://www.bulletphysics.org/Bu=
+llet/phpBB3/viewtopic.php?f=3D4&amp;t=3D7241#wrapheader">Top</a></strong></=
+td>
+			<td><div class=3D"gensmall" style=3D"float: left;">&nbsp;<a href=3D"http=
+://www.bulletphysics.org/Bullet/phpBB3/memberlist.php?mode=3Dviewprofile&am=
+p;u=3D2&amp;sid=3Db558996b9f2d38c899c971f2e428fa53"><img src=3D"http://www.=
+bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imageset/en/icon_user_pro=
+file.gif" alt=3D"Profile" title=3D"Profile"></a> &nbsp;</div> <div class=3D=
+"gensmall" style=3D"float: right;">&nbsp;</div></td>
+=09
+		</tr>
+
+	<tr>
+		<td class=3D"spacer" colspan=3D"2" height=3D"1"><img src=3D"http://www.bu=
+lletphysics.org/Bullet/phpBB3/images/spacer.gif" alt=3D"" width=3D"1" heigh=
+t=3D"1"></td>
+	</tr>
+	</tbody></table>
+
+	<table class=3D"tablebg" width=3D"100%" cellspacing=3D"1">
+	<tbody><tr class=3D"row1">
+
+			<td align=3D"center" valign=3D"middle">
+				<a name=3D"p24781"></a>
+				<b class=3D"postauthor">mobeen</b>
+			</td>
+			<td width=3D"100%" height=3D"25">
+				<table width=3D"100%" cellspacing=3D"0">
+				<tbody><tr>
+			=09
+					<td class=3D"gensmall" width=3D"100%"><div style=3D"float: left;">&nbs=
+p;<b>Post subject:</b> <a href=3D"http://www.bulletphysics.org/Bullet/phpBB=
+3/viewtopic.php?f=3D4&amp;t=3D7241#p24781">Re: Best resource for learning F=
+EM</a></div><div style=3D"float: right;"><a href=3D"http://www.bulletphysic=
+s.org/Bullet/phpBB3/viewtopic.php?p=3D24781&amp;sid=3Db558996b9f2d38c899c97=
+1f2e428fa53#p24781"><img src=3D"http://www.bulletphysics.org/Bullet/phpBB3/=
+styles/subsilver2/imageset/icon_post_target.gif" width=3D"12" height=3D"9" =
+alt=3D"Post" title=3D"Post"></a><b>Posted:</b> Tue Aug 09, 2011 9:56 pm&nbs=
+p;</div></td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class=3D"row1">
+
+			<td valign=3D"top" class=3D"profile">
+				<table cellspacing=3D"4" align=3D"center" width=3D"150">
+		=09
+				<tbody><tr>
+					<td><img src=3D"http://www.bulletphysics.org/Bullet/phpBB3/styles/subs=
+ilver2/imageset/en/icon_user_offline.gif" alt=3D"Offline" title=3D"Offline"=
+></td>
+				</tr>
+		=09
+				</tbody></table>
+
+				<span class=3D"postdetails">
+					<br><b>Joined:</b> Thu May 05, 2011 11:47 am<br><b>Posts:</b> 122
+				</span>
+
+			</td>
+			<td valign=3D"top">
+				<table width=3D"100%" cellspacing=3D"5">
+				<tbody><tr>
+					<td>
+				=09
+
+						<div class=3D"postbody">HI Erwin,<br>  Thanks for the links and info.=
+ <br><br>Yeah i had a look through SOFA (it gives u a collection of objects=
+/methods that you can play with to understand how the methods perform wthou=
+t going into their implementation details) but I dont think it could be use=
+d for realtime soft body deformation research because even if u come up wit=
+h a new method of doing deformation (based on existing modules) however, it=
+ is pretty difficult to highlight your novelity unless u extend existing mo=
+dules to make ur own custom modules but doing that would require a consider=
+able understanding of the whole framework. Ofcourse it is ideal for doing p=
+rototyping and comparisons.<br><br>In addition, I have compiled the runSofa=
+ and other applications fine. However, my own codes for e.g. by following t=
+he tutorials donot work I get a lot of errors and assertions. Another thing=
+ that is problematic is the unnatural compile time (template instantiation =
+is taking quite some time) for a simple one particle demo and the documenta=
+tion is also not good just a basic tutorials. These are some things that pr=
+event me from going ahead with SOFA.<br><br>Yeah I have read this short tal=
+k but I was hoping to get a bit more details on their method which are not =
+covered in the linked paper. I would need to go through the gems book.</div=
+>
+
+					<br clear=3D"all"><br>
+
+						<table width=3D"100%" cellspacing=3D"0">
+						<tbody><tr valign=3D"middle">
+							<td class=3D"gensmall" align=3D"right">
+						=09
+							</td>
+						</tr>
+						</tbody></table>
+					</td>
+				</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+		<tr class=3D"row1">
+
+			<td class=3D"profile"><strong><a href=3D"http://www.bulletphysics.org/Bu=
+llet/phpBB3/viewtopic.php?f=3D4&amp;t=3D7241#wrapheader">Top</a></strong></=
+td>
+			<td><div class=3D"gensmall" style=3D"float: left;">&nbsp;<a href=3D"http=
+://www.bulletphysics.org/Bullet/phpBB3/memberlist.php?mode=3Dviewprofile&am=
+p;u=3D8124&amp;sid=3Db558996b9f2d38c899c971f2e428fa53"><img src=3D"http://w=
+ww.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imageset/en/icon_user_=
+profile.gif" alt=3D"Profile" title=3D"Profile"></a> &nbsp;</div> <div class=
+=3D"gensmall" style=3D"float: right;">&nbsp;</div></td>
+=09
+		</tr>
+
+	<tr>
+		<td class=3D"spacer" colspan=3D"2" height=3D"1"><img src=3D"http://www.bu=
+lletphysics.org/Bullet/phpBB3/images/spacer.gif" alt=3D"" width=3D"1" heigh=
+t=3D"1"></td>
+	</tr>
+	</tbody></table>
+
+	<table width=3D"100%" cellspacing=3D"1" class=3D"tablebg">
+	<tbody><tr align=3D"center">
+		<td class=3D"cat"><form name=3D"viewtopic" method=3D"post" action=3D"http=
+://www.bulletphysics.org/Bullet/phpBB3/viewtopic.php?f=3D4&amp;t=3D7241&amp=
+;sid=3Db558996b9f2d38c899c971f2e428fa53"><span class=3D"gensmall">Display p=
+osts from previous:</span> <select name=3D"st" id=3D"st"><option value=3D"0=
+" selected=3D"selected">All posts</option><option value=3D"1">1 day</option=
+><option value=3D"7">7 days</option><option value=3D"14">2 weeks</option><o=
+ption value=3D"30">1 month</option><option value=3D"90">3 months</option><o=
+ption value=3D"180">6 months</option><option value=3D"365">1 year</option><=
+/select>&nbsp;<span class=3D"gensmall">Sort by</span> <select name=3D"sk" i=
+d=3D"sk"><option value=3D"a">Author</option><option value=3D"t" selected=3D=
+"selected">Post time</option><option value=3D"s">Subject</option></select> =
+<select name=3D"sd" id=3D"sd"><option value=3D"a" selected=3D"selected">Asc=
+ending</option><option value=3D"d">Descending</option></select>&nbsp;<input=
+ class=3D"btnlite" type=3D"submit" value=3D"Go" name=3D"sort"></form></td>
+	</tr>
+	</tbody></table>
+=09
+
+	<table width=3D"100%" cellspacing=3D"1">
+	<tbody><tr>
+		<td align=3D"left" valign=3D"middle" nowrap=3D"nowrap">
+		<a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/posting.php?mode=3D=
+post&amp;f=3D4&amp;sid=3Db558996b9f2d38c899c971f2e428fa53"><img src=3D"http=
+://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imageset/en/button=
+_topic_new.gif" alt=3D"Post new topic" title=3D"Post new topic"></a>&nbsp;<=
+a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/posting.php?mode=3Drep=
+ly&amp;f=3D4&amp;t=3D7241&amp;sid=3Db558996b9f2d38c899c971f2e428fa53"><img =
+src=3D"http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imagese=
+t/en/button_topic_reply.gif" alt=3D"Reply to topic" title=3D"Reply to topic=
+"></a>
+		</td>
+	=09
+			<td class=3D"nav" valign=3D"middle" nowrap=3D"nowrap">&nbsp;Page <strong=
+>1</strong> of <strong>1</strong><br></td>
+			<td class=3D"gensmall" nowrap=3D"nowrap">&nbsp;[ 3 posts ]&nbsp;</td>
+			<td class=3D"gensmall" width=3D"100%" align=3D"right" nowrap=3D"nowrap">=
+</td>
+	=09
+	</tr>
+	</tbody></table>
+
+</div>
+
+<div id=3D"pagefooter"></div>
+
+<br clear=3D"all">
+<table class=3D"tablebg" width=3D"100%" cellspacing=3D"1" cellpadding=3D"0"=
+ style=3D"margin-top: 5px;">
+	<tbody><tr>
+		<td class=3D"row1">
+			<p class=3D"breadcrumbs"><a href=3D"http://www.bulletphysics.org/Bullet/=
+phpBB3/index.php?sid=3Db558996b9f2d38c899c971f2e428fa53">Board index</a> =
+=C2=BB <a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/viewforum.php?=
+f=3D19&amp;sid=3Db558996b9f2d38c899c971f2e428fa53">RESEARCH AND DEVELOPMENT=
+ IN COLLISION DETECTION &amp; PHYSICS. Don't post Bullet support questions =
+here!</a> =C2=BB <a href=3D"http://www.bulletphysics.org/Bullet/phpBB3/view=
+forum.php?f=3D4&amp;sid=3Db558996b9f2d38c899c971f2e428fa53">Research and de=
+velopment discussion about Collision Detection and Physics Simulation</a></=
+p>
+			<p class=3D"datetime">All times are UTC </p>
+		</td>
+	</tr>
+	</tbody></table>
+	<br clear=3D"all">
+
+	<table class=3D"tablebg" width=3D"100%" cellspacing=3D"1">
+	<tbody><tr>
+		<td class=3D"cat"><h4>Who is online</h4></td>
+	</tr>
+	<tr>
+		<td class=3D"row1"><p class=3D"gensmall">Users browsing this forum: <span=
+ style=3D"color: #9E8DA7;" class=3D"username-coloured">Yahoo [Bot]</span> a=
+nd 4 guests</p></td>
+	</tr>
+	</tbody></table>
+
+
+<br clear=3D"all">
+
+<table width=3D"100%" cellspacing=3D"1">
+<tbody><tr>
+	<td width=3D"40%" valign=3D"top" nowrap=3D"nowrap" align=3D"left"></td>
+	<td align=3D"right" valign=3D"top" nowrap=3D"nowrap"><span class=3D"gensma=
+ll">You <strong>cannot</strong> post new topics in this forum<br>You <stron=
+g>cannot</strong> reply to topics in this forum<br>You <strong>cannot</stro=
+ng> edit your posts in this forum<br>You <strong>cannot</strong> delete you=
+r posts in this forum<br>You <strong>cannot</strong> post attachments in th=
+is forum<br></span></td>
+</tr>
+</tbody></table>
+
+<br clear=3D"all">
+
+<table width=3D"100%" cellspacing=3D"0">
+<tbody><tr>
+	<td><form method=3D"get" name=3D"search" action=3D"http://www.bulletphysic=
+s.org/Bullet/phpBB3/search.php?sid=3Db558996b9f2d38c899c971f2e428fa53"><spa=
+n class=3D"gensmall">Search for:</span> <input class=3D"post" type=3D"text"=
+ name=3D"keywords" size=3D"20"> <input class=3D"btnlite" type=3D"submit" va=
+lue=3D"Go"><input type=3D"hidden" name=3D"t" value=3D"7241">
+<input type=3D"hidden" name=3D"sf" value=3D"msgonly">
+<input type=3D"hidden" name=3D"sid" value=3D"b558996b9f2d38c899c971f2e428fa=
+53">
+</form></td>
+	<td align=3D"right">
+	<form method=3D"post" name=3D"jumpbox" action=3D"http://www.bulletphysics.=
+org/Bullet/phpBB3/viewforum.php?sid=3Db558996b9f2d38c899c971f2e428fa53" ons=
+ubmit=3D"if(document.jumpbox.f.value =3D=3D -1){return false;}">
+
+	<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+	<tbody><tr>
+		<td nowrap=3D"nowrap"><span class=3D"gensmall">Jump to:</span>&nbsp;<sele=
+ct name=3D"f" onchange=3D"if(this.options[this.selectedIndex].value !=3D -1=
+){ document.forms['jumpbox'].submit() }">
+
+	=09
+			<option value=3D"-1">Select a forum</option>
+		<option value=3D"-1">------------------</option>
+			<option value=3D"21">BULLET PHYSICS LIBRARY USERS</option>
+	=09
+			<option value=3D"9">&nbsp; &nbsp;General Bullet Physics Support and Feed=
+back</option>
+	=09
+			<option value=3D"18">&nbsp; &nbsp;Release Announcements</option>
+	=09
+			<option value=3D"17">&nbsp; &nbsp;Applications, Games, Demos or Movies u=
+sing Bullet</option>
+	=09
+			<option value=3D"20">PHYSICS AUTHORING TOOLS, SERIALIZATION AND STANDARD=
+S</option>
+	=09
+			<option value=3D"12">&nbsp; &nbsp;Physics authoring tools, serialization=
+, standards and related topics</option>
+	=09
+			<option value=3D"19">RESEARCH AND DEVELOPMENT IN COLLISION DETECTION &am=
+p; PHYSICS. Don't post Bullet support questions here!</option>
+	=09
+			<option value=3D"4" selected=3D"selected">&nbsp; &nbsp;Research and deve=
+lopment discussion about Collision Detection and Physics Simulation</option=
+>
+	=09
+			<option value=3D"6">&nbsp; &nbsp;Links, Papers, Libraries, Demos, Movies=
+, Comparisons</option>
+	=09
+			<option value=3D"22">&nbsp; &nbsp;&nbsp; &nbsp;Non-technical forum and l=
+icense/patent discussion</option>
+	=09
+			<option value=3D"16">&nbsp; &nbsp;Career Opportunities</option>
+	=09
+
+		</select>&nbsp;<input class=3D"btnlite" type=3D"submit" value=3D"Go"></td=
+>
+	</tr>
+	</tbody></table>
+
+	</form>
+</td>
+</tr>
+</tbody></table>
+
+
+</div>
+
+<div id=3D"wrapfooter">
+=09
+	<span class=3D"copyright">Powered by <a href=3D"https://www.phpbb.com/">ph=
+pBB</a>=C2=AE Forum Software =C2=A9 phpBB Group
+	</span>
+</div>
+
+
+
+
+
+</div><div id=3D"qb-sougou-search" style=3D"display: none; opacity: 0;"><p>=
+=E6=90=9C=E7=B4=A2</p><p class=3D"last-btn">=E5=A4=8D=E5=88=B6</p><iframe s=
+rc=3D"cid:frame-32-bf3a06a1-2a25-436b-948a-9e13baecc272@mhtml.blink"></ifra=
+me></div></body></html>
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.bulletphysics.org/wordpress/wordpress_style.css
+
+@charset "utf-8";
+
+a:link, a:visited, a:active { }
+
+a:hover { }
+
+code, pre { font-family: "Courier New", Courier, monospace; font-size: 1em;=
+ }
+
+pre { overflow-x: auto; word-wrap: normal; padding-bottom: 1.5em; overflow-=
+y: hidden; width: 99%; }
+
+abbr[title], acronym[title] { border-bottom: 1px dotted; }
+
+hr { display: block; height: 2px; border: none; margin: 0.5em auto; color: =
+rgb(204, 204, 204); background-color: rgb(204, 204, 204); }
+
+table { font-size: 1em; }
+
+.post, ul.commentlist li, ol.commentlist li { word-wrap: break-word; }
+
+pre, .wp_syntax { word-wrap: normal; }
+
+div#wrapper { margin-left: auto; margin-right: auto; display: block; }
+
+div#container { width: auto; margin-left: auto; margin-right: auto; text-al=
+ign: left; display: block; }
+
+table#layout { font-size: 100%; width: 100%; max-width: 100%; table-layout:=
+ fixed; }
+
+.colone { }
+
+.coltwo { width: 100%; min-width: 200px; }
+
+.colthree { }
+
+td#header { width: auto; padding: 0px; }
+
+table#logoarea, table#logoarea tr, table#logoarea td { margin: 0px; padding=
+: 0px; background: none; border: 0px; }
+
+table#logoarea { width: 100%; max-width: 100%; }
+
+.logo { display: block; }
+
+td.logoarea-logo { width: 1%; }
+
+h1.blogtitle { display: block; }
+
+h1.blogtitle a:link, h1.blogtitle a:visited, h1.blogtitle a:active { text-d=
+ecoration: none; }
+
+h1.blogtitle a:hover { text-decoration: none; }
+
+p.tagline { }
+
+td.feed-icons { }
+
+div.rss-box { height: 1%; display: block; padding: 10px 0px 10px 10px; marg=
+in: 0px; }
+
+.comments-icon { background: url("images/comment-feed-small.gif") 0px cente=
+r no-repeat scroll transparent; height: 22px; line-height: 22px; margin: 0p=
+x 10px 0px 0px; padding-left: 27px; display: block; text-decoration: none; =
+float: right; white-space: nowrap; }
+
+.posts-icon { background: url("images/post-feed-small.gif") 0px center no-r=
+epeat scroll transparent; height: 22px; line-height: 22px; margin: 0px 10px=
+ 0px 0px; padding-left: 25px; display: block; text-decoration: none; float:=
+ right; white-space: nowrap; }
+
+.email-icon { background: url("images/email-feed-small.gif") 0px center no-=
+repeat scroll transparent; height: 22px; line-height: 22px; margin: 0px 10p=
+x 0px 0px; padding-left: 28px; display: block; text-decoration: none; float=
+: right; white-space: nowrap; }
+
+td.search-box { height: 1%; }
+
+.searchbox { }
+
+.searchbox-form { margin: 5px 10px; }
+
+.horbar1, .horbar2 { font-size: 1px; clear: both; display: block; position:=
+ relative; padding: 0px; margin: 0px; width: 100%; }
+
+.horbar1 { }
+
+.horbar2 { }
+
+.header-image-container { position: relative; margin: 0px; padding: 0px; }
+
+.titleoverlay { z-index: 4; position: relative; float: left; width: auto; }
+
+.opacityleft { position: absolute; z-index: 2; top: 0px; left: 0px; }
+
+.opacityright { position: absolute; z-index: 2; top: 0px; right: 0px; }
+
+div.clickable { position: absolute; top: 0px; left: 0px; z-index: 3; margin=
+: 0px; padding: 0px; width: 100%; }
+
+a.divclick:link, a.divclick:visited, a.divclick:active, a.divclick:hover { =
+width: 100%; height: 100%; display: block; text-decoration: none; }
+
+td#left { vertical-align: top; }
+
+td#right { vertical-align: top; }
+
+td#middle { vertical-align: top; width: 100%; max-width: 100%; overflow: au=
+to; }
+
+td#footer { width: auto; }
+
+td#footer a:link, td#footer a:visited, td#footer a:active { }
+
+td#footer a:hover { }
+
+div.widget { display: block; width: auto; }
+
+div.widget-title { display: block; width: auto; }
+
+div.widget-title h3 { padding: 0px; margin: 0px; }
+
+div.widget-content { display: block; width: auto; }
+
+div.widget select { width: 98%; margin-top: 5px; }
+
+.widget ul { list-style-type: none; margin: 0px; padding: 0px; width: auto;=
+ }
+
+.widget ul li { margin: 2px 0px; display: block; }
+
+.widget ul li ul li { }
+
+.widget ul li ul li ul li { }
+
+.widget ul li a:link, .widget ul li a:visited, .widget ul li a:active { tex=
+t-decoration: none; font-weight: normal; }
+
+.widget ul li ul li a:link, .widget ul li ul li a:visited, .widget ul li ul=
+ li a:active { }
+
+.widget ul li ul li ul li a:link, .widget ul li ul li ul li a:visited, .wid=
+get ul li ul li ul li a:active { }
+
+.widget ul li a:hover { }
+
+.widget ul li ul li a:hover { }
+
+.widget ul li ul li ul li a:hover { }
+
+.widget ul li a:link, .widget ul li a:visited, .widget ul li a:active, .wid=
+get ul li a:hover { display: block; }
+
+* html .widget ul li a:link, * html .widget ul li a:visited, * html .widget=
+ ul li a:active, * html .widget ul li a:hover { height: 1%; }
+
+.widget_archive ul li a:link, .widget_archive ul li a:visited, .widget_arch=
+ive ul li a:active, .widget_archive ul li a:hover { display: inline-block !=
+important; }
+
+.widget_categories ul li a:link, .widget_categories ul li a:visited, .widge=
+t_categories ul li a:active, .widget_categories ul li a:hover { }
+
+div#get_recent_comments_wrap ul li { padding: 0px; display: block; border-l=
+eft: 0px; }
+
+div#get_recent_comments_wrap ul li ul li { margin-left: 0px; }
+
+div#get_recent_comments_wrap ul li ul li, .widget_recent_comments ul li, .w=
+idget_simple_recent_comments ul li { display: block; }
+
+div#get_recent_comments_wrap ul li ul li ul li, .widget_recent_comments ul =
+li ul li, .widget_simple_recent_comments ul li ul li { }
+
+.widget_recent_comments ul li ul li ul li, .widget_simple_recent_comments u=
+l li ul li ul li { }
+
+div#get_recent_comments_wrap ul li ul li:hover, .widget_recent_comments ul =
+li:hover, .widget_simple_recent_comments ul li:hover, div#get_recent_commen=
+ts_wrap ul li ul li.sfhover, .widget_recent_comments ul li.sfhover, .widget=
+_simple_recent_comments ul li.sfhover { }
+
+div#get_recent_comments_wrap ul li ul li ul li:hover, .widget_recent_commen=
+ts ul li ul li:hover, .widget_simple_recent_comments ul li ul li:hover, div=
+#get_recent_comments_wrap ul li ul li ul li.sfhover, .widget_recent_comment=
+s ul li ul li.sfhover, .widget_simple_recent_comments ul li ul li.sfhover {=
+ }
+
+.widget_recent_comments ul li ul li ul li:hover, .widget_simple_recent_comm=
+ents ul li ul li ul li:hover, .widget_recent_comments ul li ul li ul li.sfh=
+over, .widget_simple_recent_comments ul li ul li ul li.sfhover { }
+
+div#get_recent_comments_wrap ul li a:link, div#get_recent_comments_wrap ul =
+li a:visited, div#get_recent_comments_wrap ul li a:active, div#get_recent_c=
+omments_wrap ul li a:hover, .widget ul li.recentcomments a:link, .widget ul=
+ li.recentcomments a:visited, .widget ul li.recentcomments a:active, .widge=
+t ul li.recentcomments a:hover, .widget ul li.bfarecentcomments a:link, .wi=
+dget ul li.bfarecentcomments a:visited, .widget ul li.bfarecentcomments a:a=
+ctive, .widget ul li.bfarecentcomments a:hover { border-left: 0px !importan=
+t; display: inline !important; padding: 0px !important; margin: 0px !import=
+ant; }
+
+table.subscribe { width: 100%; }
+
+table.subscribe td.email-text { padding: 0px 0px 5px; vertical-align: top; =
+}
+
+table.subscribe td.email-field { padding: 0px; width: 100%; }
+
+table.subscribe td.email-button { padding: 0px 0px 0px 5px; }
+
+table.subscribe td.post-text { padding: 7px 0px 0px; vertical-align: top; }
+
+table.subscribe td.comment-text { padding: 7px 0px 0px; vertical-align: top=
+; }
+
+div.post { display: block; }
+
+.sticky { }
+
+div.post-kicker { }
+
+div.post-kicker a:link, div.post-kicker a:visited, div.post-kicker a:active=
+ { }
+
+div.post-kicker a:hover { }
+
+div.post-headline { }
+
+div.post-headline h2 { margin: 0px; padding: 0px; }
+
+div.post-headline h2 a:link, div.post-headline h2 a:visited, div.post-headl=
+ine h2 a:active { }
+
+div.post-headline h2 a:hover { }
+
+div.post-byline { }
+
+div.post-byline a:link, div.post-byline a:visited, div.post-byline a:active=
+ { }
+
+div.post-byline a:hover { }
+
+div.post-bodycopy { }
+
+div.post-bodycopy p { margin: 1em 0px; padding: 0px; display: block; }
+
+div.post-pagination { }
+
+div.post-footer { clear: both; display: block; }
+
+div.post-footer a:link, div.post-footer a:visited, div.post-footer a:active=
+ { }
+
+div.post-footer a:hover { }
+
+div.post-kicker img, div.post-byline img, div.post-footer img { border: 0px=
+; padding: 0px; margin: 0px 0px -1px; background: none; }
+
+span.post-ratings { display: inline-block; width: auto; white-space: nowrap=
+; }
+
+.navigation-top { display: block; width: 100%; }
+
+.navigation-middle { display: block; width: 100%; }
+
+.navigation-bottom { display: block; width: 100%; }
+
+.navigation-comments-above { display: block; width: 100%; }
+
+.navigation-comments-below { display: block; width: 100%; }
+
+.older { float: left; width: 49%; text-align: left; margin: 0px; padding: 0=
+px; }
+
+.newer { float: right; width: 49%; text-align: right; margin: 0px; padding:=
+ 0px; }
+
+.older-home { float: left; width: 45%; text-align: left; margin: 0px; paddi=
+ng: 0px; }
+
+.newer-home { float: right; width: 45%; text-align: right; margin: 0px; pad=
+ding: 0px; }
+
+.home { float: left; width: 9%; text-align: center; margin: 0px; padding: 0=
+px; }
+
+form, .feedburner-email-form { margin: 0px; padding: 0px; }
+
+fieldset { border: 1px solid rgb(204, 204, 204); width: auto; padding: 0.35=
+em 0.625em 0.75em; display: block; }
+
+legend { color: rgb(0, 0, 0); background: rgb(244, 244, 244); border: 1px s=
+olid rgb(204, 204, 204); padding: 2px 6px; margin-bottom: 15px; }
+
+form p { margin: 5px 0px 0px; padding: 0px; }
+
+label { margin-right: 0.5em; font-family: arial; cursor: pointer; }
+
+input.text, input.password, input.file, input.TextField, textarea { padding=
+: 3px; }
+
+textarea { width: 96%; }
+
+input.inputblur { color: rgb(119, 119, 119); width: 95%; }
+
+input.inputfocus { color: rgb(0, 0, 0); width: 95%; }
+
+input.highlight, textarea.highlight { }
+
+.button, .Button { padding: 0px 2px; height: 24px; line-height: 16px; }
+
+.buttonhover { padding: 0px 2px; cursor: pointer; }
+
+form#commentform input#submit { }
+
+table.searchform { width: 100%; }
+
+table.searchform td.searchfield { padding: 0px; width: 100%; }
+
+table.searchform td.searchbutton { padding: 0px 0px 0px 5px; }
+
+table.searchform td.searchbutton input { padding: 0px 0px 0px 5px; }
+
+blockquote { height: 1%; display: block; clear: both; }
+
+blockquote blockquote { height: 1%; display: block; clear: both; }
+
+.post table { }
+
+.post table caption { width: auto; margin: 0px auto; }
+
+.post table th { }
+
+.post table td { }
+
+.post table tfoot td { }
+
+.post table tr.alt td { }
+
+.post table tr.over td { }
+
+#calendar_wrap { padding: 0px; border: none; }
+
+table#wp-calendar { width: 100%; font-size: 90%; border-collapse: collapse;=
+ background-color: rgb(255, 255, 255); margin: 0px auto; }
+
+table#wp-calendar caption { width: auto; background: rgb(238, 238, 238); bo=
+rder: none; padding: 3px; margin: 0px auto; font-size: 1em; }
+
+table#wp-calendar th { border: 1px solid rgb(238, 238, 238); background-col=
+or: rgb(153, 153, 153); color: rgb(255, 255, 255); font-weight: bold; paddi=
+ng: 2px; text-align: center; }
+
+table#wp-calendar td { padding: 0px; line-height: 18px; background-color: r=
+gb(255, 255, 255); border: 1px solid rgb(221, 221, 221); text-align: center=
+; }
+
+table#wp-calendar tfoot td { border: 1px solid rgb(238, 238, 238); backgrou=
+nd-color: rgb(238, 238, 238); }
+
+table#wp-calendar td a { display: block; background-color: rgb(238, 238, 23=
+8); width: 100%; height: 100%; padding: 0px; }
+
+div#respond { }
+
+p.thesetags { margin: 10px 0px; }
+
+h3.reply { margin: 0px; padding: 0px 0px 10px; }
+
+ol.commentlist { margin: 15px 0px 25px; list-style-type: none; padding: 0px=
+; display: block; }
+
+ol.commentlist li { padding: 15px 10px; display: block; height: 1%; margin:=
+ 0px; }
+
+ol.commentlist li.alt { display: block; height: 1%; }
+
+ol.commentlist li.authorcomment { display: block; height: 1%; }
+
+ol.commentlist span.authorname { font-weight: bold; }
+
+ol.commentlist span.commentdate { color: rgb(102, 102, 102); font-size: 90%=
+; margin-bottom: 5px; display: block; }
+
+ol.commentlist span.editcomment { display: block; }
+
+ol.commentlist li p { margin: 2px 0px 5px; }
+
+div.comment-number { float: right; font-size: 2em; line-height: 2em; font-f=
+amily: georgia, serif; font-weight: bold; color: rgb(221, 221, 221); margin=
+: -10px 0px 0px; position: relative; height: 1%; }
+
+div.comment-number a:link, div.comment-number a:visited, div.comment-number=
+ a:active { color: rgb(204, 204, 204); }
+
+textarea#comment { width: 98%; margin: 10px 0px; display: block; }
+
+ul.commentlist { margin: 15px 0px; list-style-type: none; padding: 0px; dis=
+play: block; }
+
+ul.commentlist ul { margin: 15px 0px 25px; list-style-type: none; padding: =
+0px; border: none; display: block; }
+
+ul.commentlist li.thread-even { padding: 15px 10px; display: block; clear: =
+both; height: 1%; margin: 0px; }
+
+ul.commentlist li.thread-odd { padding: 15px 10px; display: block; clear: b=
+oth; height: 1%; margin: 0px; }
+
+ul.commentlist li.bypostauthor { }
+
+ul.commentlist li ul.children, ul.commentlist li ul.children li, ul.comment=
+list li ul.children li.bypostauthor { background-color: transparent; border=
+: 0px; padding: 0px; margin: 0px; display: block; height: 1%; }
+
+ul.commentlist li ul.children li, ul.commentlist li ul.children li.bypostau=
+thor { margin: 10px 0px 0px 30px; }
+
+ul.commentlist li ul.children li.depth-2 { margin: 10px 0px 0px; }
+
+ul.children div.comment-container { background-color: transparent; border: =
+1px dashed rgb(204, 204, 204); padding: 8px; margin: 0px; border-radius: 5p=
+x; }
+
+ul.children div.bypostauthor { background-color: rgb(255, 236, 236); border=
+: 1px dashed rgb(255, 191, 191); }
+
+ul.commentlist li p { margin: 2px 0px 5px; }
+
+ul.commentlist span.authorname { }
+
+div.comment-meta a:link, div.comment-meta a:visited, div.comment-meta a:act=
+ive, div.comment-meta a:hover { font-weight: normal; }
+
+div#cancel-comment-reply { margin: -5px 0px 10px; }
+
+div.comment-number { float: right; font-size: 2em; line-height: 2em; font-f=
+amily: georgia, serif; font-weight: bold; color: rgb(221, 221, 221); margin=
+: -10px 0px 0px; position: relative; height: 1%; }
+
+div.comment-number a:link, div.comment-number a:visited, div.comment-number=
+ a:active { color: rgb(204, 204, 204); }
+
+.page-numbers { padding: 2px 6px; border: 1px solid rgb(0, 0, 0); border-ra=
+dius: 6px; }
+
+span.current { background: rgb(221, 221, 221); }
+
+a.prev, a.next { border: none; }
+
+a.page-numbers:link, a.page-numbers:visited, a.page-numbers:active { text-d=
+ecoration: none; }
+
+a.page-numbers:hover { text-decoration: none; }
+
+div.xhtml-tags { display: none; }
+
+abbr em { background: url("images/commentluv.gif") 0% 90% no-repeat; margin=
+-top: 8px; font-style: normal; border-right: none !important; border-bottom=
+: none !important; border-left: none !important; border-image: initial !imp=
+ortant; border-top: 1px dashed rgb(170, 170, 170) !important; display: inli=
+ne-block !important; padding: 5px 5px 2px 20px !important; }
+
+p.subscribe-to-comments { margin-bottom: 10px; }
+
+img { border: 0px; }
+
+.post img.size-full { max-width: 96%; margin: 5px 0px; }
+
+div[class~=3D"post"] img { height: auto; }
+
+.post img.alignleft { float: left; margin: 10px 10px 5px 0px; }
+
+.post img.alignright { float: right; margin: 10px 0px 5px 10px; }
+
+.post img.aligncenter { display: block; margin: 10px auto; }
+
+.aligncenter, div.aligncenter { display: block; margin-left: auto; margin-r=
+ight: auto; }
+
+.alignleft, div.alignleft { float: left; margin: 10px 10px 5px 0px; }
+
+.alignright, div.alignright { float: right; margin: 10px 0px 5px 10px; }
+
+div.archives-page img { border: 0px; padding: 0px; background: none; margin=
+-bottom: 0px; vertical-align: -10%; }
+
+.wp-caption { max-width: 96%; height: auto; display: block; }
+
+* html .wp-caption { height: 100%; }
+
+.wp-caption img { margin: 0px !important; padding: 0px !important; border: =
+0px none !important; }
+
+.wp-caption p.wp-caption-text { }
+
+img.wp-smiley { float: none; margin: 0px 1px -1px; border: none !important;=
+ padding: 0px !important; background: none !important; }
+
+img.avatar { float: left; display: block; }
+
+#comment_quicktags { text-align: left; padding: 10px 0px 2px; display: bloc=
+k; }
+
+#comment_quicktags input.ed_button { background: rgb(244, 244, 244); border=
+: 2px solid rgb(204, 204, 204); color: rgb(68, 68, 68); margin: 2px 4px 2px=
+ 0px; width: auto; padding: 0px 4px; height: 24px; line-height: 16px; }
+
+#comment_quicktags input.ed_button_hover { background: rgb(221, 221, 221); =
+border: 2px solid rgb(102, 102, 102); color: rgb(0, 0, 0); margin: 2px 4px =
+2px 0px; width: auto; padding: 0px 4px; height: 24px; line-height: 16px; cu=
+rsor: pointer; }
+
+#comment_quicktags #ed_strong { font-weight: bold; }
+
+#comment_quicktags #ed_em { font-style: italic; }
+
+div.sociable { margin: 0px; width: 200px; display: inline; }
+
+div.sociable-tagline { display: none; }
+
+.sociable span { display: inline-block; }
+
+.sociable ul { display: inline; margin: 0px !important; padding: 0px !impor=
+tant; }
+
+.sociable ul li { background: none; display: inline; list-style-type: none;=
+ margin: 0px; padding: 1px; }
+
+.sociable ul li::before { content: ""; }
+
+.sociable img { float: none; width: 16px; height: 16px; border: 0px; margin=
+: 0px; padding: 0px; }
+
+.sociable-hovers { opacity: 0.4; vertical-align: text-bottom; }
+
+.sociable-hovers:hover { opacity: 1; }
+
+@media print {=20
+  body { background: white; color: black; margin: 0px; font-size: 12pt; fon=
+t-family: arial, sans-serif; }
+  a:link::after, a:visited::after { content: " [" attr(href) "] "; font-wei=
+ght: normal; text-decoration: none; font-size: 12pt; }
+  a:link, a:visited { text-decoration: underline; color: rgb(0, 0, 0); }
+  .postmetadata a:link::after, .postmetadata a:visited::after { content: ""=
+; }
+  h2 a:link::after, h2 a:visited::after { content: ""; }
+  h2, h2 a:link, h2 a:visited, h2 a:active { color: rgb(0, 0, 0); font-size=
+: 18pt; }
+  h3 { color: rgb(0, 0, 0); font-size: 15pt; }
+  #header, #left, #right, #footer, .navigation, .wp-pagenavi-navigation, #c=
+omment, .remove-for-print { display: none; }
+}
+
+ul.rMenu, ul.rMenu ul, ul.rMenu li, ul.rMenu a { display: block; margin: 0p=
+x; padding: 0px; }
+
+ul.rMenu, ul.rMenu li, ul.rMenu ul { list-style: none; }
+
+ul.rMenu ul { display: none; }
+
+ul.rMenu li { position: relative; z-index: 1; }
+
+ul.rMenu li:hover { z-index: 999; }
+
+ul.rMenu li:hover > ul { display: block; position: absolute; }
+
+ul.rMenu-hor li { float: left; width: auto; }
+
+ul.rMenu-hRight li { float: right; }
+
+ul.rMenu-ver li { float: none; }
+
+div#menu1 ul.rMenu-ver, div#menu1 ul.rMenu-ver ul { }
+
+div#menu2 ul.rMenu-ver, div#menu2 ul.rMenu-ver ul { }
+
+ul.rMenu-wide { width: 100%; }
+
+ul.rMenu-vRight { float: right; }
+
+ul.rMenu-lFloat { float: left; }
+
+ul.rMenu-noFloat { float: none; }
+
+div.rMenu-center ul.rMenu { float: left; position: relative; left: 50%; }
+
+div.rMenu-center ul.rMenu li { position: relative; left: -50%; }
+
+div.rMenu-center ul.rMenu li li { left: auto; }
+
+ul.rMenu-hor ul { top: auto; right: auto; left: auto; margin-top: -1px; }
+
+ul.rMenu-hor ul ul { margin-top: 0px; margin-left: 0px; }
+
+ul.rMenu-ver ul { left: 100%; right: auto; top: 0px; }
+
+ul.rMenu-vRight ul, ul.rMenu-hRight ul.rMenu-ver ul { left: -100%; right: a=
+uto; top: auto; }
+
+ul.rMenu-hRight ul { left: auto; right: 0px; top: auto; margin-top: -1px; }
+
+ul.rMenu { border-left: none; }
+
+ul#rmenu { border-left: none; }
+
+ul.rMenu li a { }
+
+ul#rmenu li a { }
+
+ul.rMenu-hor li { margin-bottom: -1px; margin-top: -1px; margin-left: -1px;=
+ }
+
+ul#rmenu li { }
+
+ul#rmenu li ul li { }
+
+ul.rMenu-hor { padding-left: 1px; }
+
+ul.rMenu-ver li { margin-left: 0px; margin-top: -1px; }
+
+div#menu1 ul.rMenu-ver { }
+
+div#menu2 ul.rMenu-ver { }
+
+ul.rMenu li a { padding: 4px 5px; }
+
+ul#rmenu li a { padding: 4px 5px; }
+
+ul.rMenu li a:link, ul.rMenu li a:hover, ul.rMenu li a:visited, ul.rMenu li=
+ a:active { text-decoration: none; margin: 0px; padding: 4px 5px; }
+
+ul#rmenu li a:link, ul#rmenu li a:hover, ul#rmenu li a:visited, ul#rmenu li=
+ a:active { text-decoration: none; margin: 0px; padding: 4px 5px; }
+
+ul.rMenu li { }
+
+ul#rmenu li { }
+
+ul.rMenu li:hover, ul.rMenu li.sfhover { }
+
+ul#rmenu li:hover, ul#rmenu li.sfhover { }
+
+ul.rMenu li.current_page_item a:link, ul.rMenu li.current_page_item a:activ=
+e, ul.rMenu li.current_page_item a:hover, ul.rMenu li.current_page_item a:v=
+isited, ul.rMenu li a:hover { }
+
+ul#rmenu li.current-cat a:link, ul#rmenu li.current-cat a:active, ul#rmenu =
+li.current-cat a:hover, ul#rmenu li.current-cat a:visited, ul#rmenu li a:ho=
+ver { }
+
+div#menu1 ul.rMenu li.rMenu-expand a, div#menu1 ul.rMenu li.rMenu-expand li=
+.rMenu-expand a, div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMen=
+u-expand a, div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-exp=
+and li.rMenu-expand a, div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand l=
+i.rMenu-expand li.rMenu-expand li.rMenu-expand a { padding-right: 15px; pad=
+ding-left: 5px; background-repeat: no-repeat; background-position: 100% 50%=
+; }
+
+div#menu2 ul.rMenu li.rMenu-expand a, div#menu2 ul.rMenu li.rMenu-expand li=
+.rMenu-expand a, div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMen=
+u-expand a, div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-exp=
+and li.rMenu-expand a, div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand l=
+i.rMenu-expand li.rMenu-expand li.rMenu-expand a { padding-right: 15px; pad=
+ding-left: 5px; background-repeat: no-repeat; background-position: 100% 50%=
+; }
+
+ul.rMenu-vRight li.rMenu-expand a, ul.rMenu-vRight li.rMenu-expand li.rMenu=
+-expand a, ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand =
+a, ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu=
+-expand a, ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand =
+li.rMenu-expand li.rMenu-expand a, ul.rMenu-hRight li.rMenu-expand a, ul.rM=
+enu-hRight li.rMenu-expand li.rMenu-expand a, ul.rMenu-hRight li.rMenu-expa=
+nd li.rMenu-expand li.rMenu-expand a, ul.rMenu-hRight li.rMenu-expand li.rM=
+enu-expand li.rMenu-expand li.rMenu-expand a, ul.rMenu-hRight li.rMenu-expa=
+nd li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a { padd=
+ing-right: 5px; padding-left: 20px; background-image: url("images/expand-le=
+ft.gif"); background-repeat: no-repeat; background-position: -5px 50%; }
+
+div#menu1 ul.rMenu-hor li.rMenu-expand a { padding-left: 5px; padding-right=
+: 15px; background-position: 100% 50%; }
+
+div#menu2 ul.rMenu-hor li.rMenu-expand a { padding-left: 5px; padding-right=
+: 15px; background-position: 100% 50%; }
+
+div#menu1 ul.rMenu li.rMenu-expand li a, div#menu1 ul.rMenu li.rMenu-expand=
+ li.rMenu-expand li a, div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand l=
+i.rMenu-expand li a, div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.=
+rMenu-expand li.rMenu-expand li a, div#menu1 ul.rMenu li.rMenu-expand li.rM=
+enu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li a { backgroun=
+d-image: none; padding-right: 5px; padding-left: 5px; }
+
+div#menu2 ul.rMenu li.rMenu-expand li a, div#menu2 ul.rMenu li.rMenu-expand=
+ li.rMenu-expand li a, div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand l=
+i.rMenu-expand li a, div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.=
+rMenu-expand li.rMenu-expand li a, div#menu2 ul.rMenu li.rMenu-expand li.rM=
+enu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li a { backgroun=
+d-image: none; padding-right: 5px; padding-left: 5px; }
+
+* html ul.rMenu { display: block; position: static; }
+
+* html ul.rMenu ul { float: none; }
+
+ul.rMenu ul { }
+
+* html ul.rMenu-ver li, * html ul.rMenu-hor li ul.rMenu-ver li { width: 100=
+%; float: left; clear: left; }
+
+:first-child + html ul.rMenu-ver > li { width: 100%; float: left; clear: le=
+ft; }
+
+ul.rMenu li a { position: relative; min-width: 0px; }
+
+* html ul.rMenu-hor li { width: auto; }
+
+* html div.rMenu-center { position: relative; z-index: 1; }
+
+* html ul.rMenu ul { display: block; position: absolute; }
+
+* html ul.rMenu ul, * html ul.rMenu-hor ul, * html ul.rMenu-ver ul, * html =
+ul.rMenu-vRight ul, * html ul.rMenu-hRight ul.rMenu-ver ul, * html ul.rMenu=
+-hRight ul { left: -10000px; }
+
+* html ul.rMenu li.sfhover { z-index: 999; }
+
+* html ul.rMenu li.sfhover ul { left: auto; }
+
+* html ul.rMenu li.sfhover ul ul, * html ul.rMenu li.sfhover ul ul ul, * ht=
+ml ul.rMenu li.sfhover ul ul ul ul, * html ul.rMenu li.sfhover ul ul ul ul =
+ul, * html ul.rMenu li.sfhover ul ul ul ul ul ul { display: none; }
+
+* html ul.rMenu li.sfhover ul, * html ul.rMenu li li.sfhover ul, * html ul.=
+rMenu li li li.sfhover ul, * html ul.rMenu li li li li.sfhover ul, * html u=
+l.rMenu li li li li li.sfhover ul { display: block; }
+
+* html ul.rMenu-ver li.sfhover ul { left: 100%; }
+
+* html ul.rMenu-vRight li.sfhover ul, * html ul.rMenu-hRight ul.rMenu-ver l=
+i.sfhover ul { left: -100%; }
+
+* html ul.rMenu iframe { position: absolute; left: 0px; top: 0px; z-index: =
+-1; }
+
+* html ul.rMenu { margin-left: 1px; }
+
+* html ul.rMenu ul, * html ul.rMenu ul ul, * html ul.rMenu ul ul ul, * html=
+ ul.rMenu ul ul ul ul { margin-left: 0px; }
+
+.clearfix::after { content: "."; display: block; height: 0px; clear: both; =
+visibility: hidden; }
+
+.clearfix { min-width: 0px; display: block; }
+
+* html .clearfix { height: 1%; }
+
+.clearboth { clear: both; height: 1%; font-size: 1%; line-height: 1%; displ=
+ay: block; padding: 0px; margin: 0px; }
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/theme/images/cellpic3.gif
+
+R0lGODlhCAAmAMQAABZ5qgluoQVrnjqVwgNpnEGKrx1+rjiSwBBzpSiHthJ1pz2IrjmGrA5ypDOP
+vi6LuTaSvyKCsiWEtBl7qzGNvBt8rSeFtCGBsCuJuAtwohR2px9/sDCNuzSRvgdsnwxxoyH5BAAA
+AAAALAAAAAAIACYAAAV+ICOO4mKeZqGuKuG+cEwIdG3fgqfveuD/wGAgQywSP8gkssFsMhHQKFRB
+rVI12CwWwO16v4CJeCyumM9mg3qt3rjf7ot8Lo/Y73aJfq+3+P9+CYKDghiGh4iJGA+MjYwckJGQ
+FJSVlA6YmZgdnJ2cEKChoAekpaQDqKmqqwMhADs=
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/theme/images/cellpic1.gif
+
+R0lGODlhCQAZAMQAAMzU287W3MnS2ODl6dje49rg5NTb4N/k6N3i5sjR19HY3sjQ1sjS2NLZ3sfQ
+19bc4dnf5Nfe49HY3dXc4dDX3dfd4t7j58vT2dPa39Pa4Nzh5dzh5t7k587W29vh5s3V2yH5BAAA
+AAAALAAAAAAJABkAAAVz4OKMpLOcSTIuaesmjCDP6Xxds3Dv/AUAvt/v8ikCishO4NMpNj+BACUa
+nVKuVwlWwZVwv42wWIwpZzDnTMbAbrcfk7gcXqnb7YQ8IZLnQ/5/BIAFhIWFGxoeHoiKGgiPkJAW
+HBaVlZQHA5maB50Dn6CgIQA7
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/theme/stylesheet.css
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; }
+
+html { font-size: 100%; }
+
+body { font-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif;=
+ color: rgb(50, 61, 79); background-color: rgb(255, 255, 255); font-size: 6=
+2.5%; margin: 0px; }
+
+#wrapheader { padding: 0px; height: auto !important; }
+
+#wrapcentre { margin: 15px 25px 0px; }
+
+#wrapfooter { text-align: center; clear: both; }
+
+#wrapnav { width: 100%; margin: 0px; background-color: rgb(236, 236, 236); =
+border-width: 1px; border-style: solid; border-color: rgb(169, 184, 194); }
+
+#logodesc { background-color: rgb(193, 202, 210); background-image: url("./=
+images/background.gif"); background-repeat: repeat-x; background-position: =
+center bottom; padding: 0px 25px 15px; }
+
+#menubar { margin: 0px 25px; }
+
+#datebar { margin: 10px 25px 0px; }
+
+#findbar { width: 100%; margin: 0px; padding: 0px; border: 0px; }
+
+.forumrules { background-color: rgb(249, 204, 121); border-width: 1px; bord=
+er-style: solid; border-color: rgb(187, 152, 96); padding: 4px; font-weight=
+: normal; font-size: 1.1em; font-family: "Lucida Grande", Verdana, Arial, H=
+elvetica, sans-serif; }
+
+.forumrules h3 { color: red; }
+
+#pageheader { }
+
+#pagecontent { }
+
+#pagefooter { }
+
+#poll { }
+
+#postrow { }
+
+#postdata { }
+
+h1 { color: black; font-family: "Lucida Grande", "Trebuchet MS", Verdana, s=
+ans-serif; font-weight: bold; font-size: 1.8em; text-decoration: none; }
+
+h2 { font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-siz=
+e: 1.5em; text-decoration: none; line-height: 120%; }
+
+h3 { font-size: 1.3em; font-weight: bold; font-family: Arial, Helvetica, sa=
+ns-serif; line-height: 120%; }
+
+h4 { margin: 0px; font-size: 1.1em; font-weight: bold; }
+
+p { font-size: 1.1em; }
+
+p.moderators { margin: 0px; float: left; color: black; font-weight: bold; }
+
+.rtl p.moderators { float: right; }
+
+p.linkmcp { margin: 0px; float: right; white-space: nowrap; }
+
+.rtl p.linkmcp { float: left; }
+
+p.breadcrumbs { margin: 0px; float: left; color: black; font-weight: bold; =
+white-space: normal; font-size: 1em; }
+
+.rtl p.breadcrumbs { float: right; }
+
+p.datetime { margin: 0px; float: right; white-space: nowrap; font-size: 1em=
+; }
+
+.rtl p.datetime { float: left; }
+
+p.searchbar { padding: 2px 0px; white-space: nowrap; }
+
+p.searchbarreg { margin: 0px; float: right; white-space: nowrap; }
+
+.rtl p.searchbarreg { float: left; }
+
+p.forumdesc { padding-bottom: 4px; }
+
+p.topicauthor { margin: 1px 0px; }
+
+p.topicdetails { margin: 1px 0px; }
+
+.postreported, .postreported a:link, .postreported a:visited, .postreported=
+ a:hover, .postreported a:active { margin: 1px 0px; color: red; font-weight=
+: bold; }
+
+.postapprove, .postapprove a:link, .postapprove a:visited, .postapprove a:h=
+over, .postapprove a:active { color: green; font-weight: bold; }
+
+.postapprove img, .postreported img { vertical-align: bottom; padding-top: =
+5px; }
+
+.postauthor { color: rgb(0, 0, 0); }
+
+.postdetails { color: rgb(0, 0, 0); }
+
+.postbody { font-size: 1.3em; line-height: 1.4em; font-family: "Lucida Gran=
+de", "Trebuchet MS", Helvetica, Arial, sans-serif; }
+
+.postbody li, ol, ul { margin: 0px 0px 0px 1.5em; }
+
+.rtl .postbody li, .rtl ol, .rtl ul { margin: 0px 1.5em 0px 0px; }
+
+.posthilit { background-color: yellow; }
+
+.nav { margin: 0px; color: black; font-weight: bold; }
+
+.pagination { padding: 4px; color: black; font-size: 1em; font-weight: bold=
+; }
+
+.cattitle { }
+
+.gen { margin: 1px; font-size: 1.2em; }
+
+.genmed { margin: 1px; font-size: 1.1em; }
+
+.gensmall { margin: 1px; font-size: 1em; }
+
+.copyright { color: rgb(68, 68, 68); font-weight: normal; font-family: "Luc=
+ida Grande", Verdana, Arial, Helvetica, sans-serif; }
+
+.titles { font-family: "Lucida Grande", Helvetica, Arial, sans-serif; font-=
+weight: bold; font-size: 1.3em; text-decoration: none; }
+
+.error { color: red; }
+
+th { color: rgb(255, 163, 79); font-size: 1.1em; font-weight: bold; backgro=
+und-color: rgb(0, 102, 153); background-image: url("./images/cellpic3.gif")=
+; white-space: nowrap; padding: 7px 5px; }
+
+td { padding: 2px; }
+
+td.profile { padding: 4px; }
+
+.tablebg { background-color: rgb(169, 184, 194); }
+
+.catdiv { height: 28px; margin: 0px; padding: 0px; border: 0px; background:=
+ url("./images/cellpic2.jpg") left top repeat-y scroll white; }
+
+.rtl .catdiv { background: url("./images/cellpic2_rtl.jpg") right top repea=
+t-y scroll white; }
+
+.cat { height: 28px; margin: 0px; padding: 0px; border: 0px; background-col=
+or: rgb(199, 208, 215); background-image: url("./images/cellpic1.gif"); tex=
+t-indent: 4px; }
+
+.row1 { background-color: rgb(236, 236, 236); padding: 4px; }
+
+.row2 { background-color: rgb(220, 225, 229); padding: 4px; }
+
+.row3 { background-color: rgb(192, 200, 208); padding: 4px; }
+
+.spacer { background-color: rgb(209, 215, 220); }
+
+hr { height: 1px; border-width: 0px; background-color: rgb(209, 215, 220); =
+color: rgb(209, 215, 220); }
+
+.legend { text-align: center; margin: 0px auto; }
+
+.rtl a { direction: rtl; unicode-bidi: embed; }
+
+a:link { color: rgb(0, 101, 151); text-decoration: none; }
+
+a:visited { color: rgb(0, 87, 132); text-decoration: none; }
+
+a:hover { color: rgb(212, 100, 0); text-decoration: underline; }
+
+a:active { color: rgb(0, 87, 132); text-decoration: none; }
+
+a.forumlink { color: rgb(0, 102, 153); font-weight: bold; font-family: "Luc=
+ida Grande", Helvetica, Arial, sans-serif; font-size: 1.2em; }
+
+a.topictitle { margin: 1px 0px; font-family: "Lucida Grande", Helvetica, Ar=
+ial, sans-serif; font-weight: bold; font-size: 1.2em; }
+
+a.topictitle:visited { color: rgb(84, 147, 180); text-decoration: none; }
+
+th a, th a:visited { text-decoration: none; color: rgb(255, 163, 79) !impor=
+tant; }
+
+th a:hover { text-decoration: underline; }
+
+form { margin: 0px; padding: 0px; border: 0px; }
+
+input { color: rgb(51, 51, 51); font-family: "Lucida Grande", Verdana, Helv=
+etica, sans-serif; font-size: 1.1em; font-weight: normal; padding: 1px; bor=
+der: 1px solid rgb(169, 184, 194); background-color: rgb(250, 250, 250); }
+
+textarea { background-color: rgb(250, 250, 250); color: rgb(51, 51, 51); fo=
+nt-family: "Lucida Grande", Verdana, Helvetica, Arial, sans-serif; font-siz=
+e: 1.3em; line-height: 1.4em; font-weight: normal; border: 1px solid rgb(16=
+9, 184, 194); padding: 2px; }
+
+select { color: rgb(51, 51, 51); background-color: rgb(250, 250, 250); font=
+-family: "Lucida Grande", Verdana, Helvetica, sans-serif; font-size: 1.1em;=
+ font-weight: normal; border: 1px solid rgb(169, 184, 194); padding: 1px; }
+
+option { padding: 0px 1em 0px 0px; }
+
+option.disabled-option { color: graytext; }
+
+.rtl option { padding: 0px 0px 0px 1em; }
+
+input.radio { border: none; background-color: transparent; }
+
+.post { background-color: white; border-style: solid; border-width: 1px; }
+
+.btnbbcode { color: rgb(0, 0, 0); font-weight: normal; font-size: 1.1em; fo=
+nt-family: "Lucida Grande", Verdana, Helvetica, sans-serif; background-colo=
+r: rgb(239, 239, 239); border: 1px solid rgb(102, 102, 102); }
+
+.btnmain { font-weight: bold; background-color: rgb(236, 236, 236); border:=
+ 1px solid rgb(169, 184, 194); cursor: pointer; padding: 1px 5px; font-size=
+: 1.1em; }
+
+.btnlite { font-weight: normal; background-color: rgb(236, 236, 236); borde=
+r: 1px solid rgb(169, 184, 194); cursor: pointer; padding: 1px 5px; font-si=
+ze: 1.1em; }
+
+.btnfile { font-weight: normal; background-color: rgb(236, 236, 236); borde=
+r: 1px solid rgb(169, 184, 194); padding: 1px 5px; font-size: 1.1em; }
+
+.helpline { background-color: rgb(222, 227, 231); border-style: none; }
+
+.quotetitle, .attachtitle { margin: 10px 5px 0px; padding: 4px; border-widt=
+h: 1px 1px 0px; border-style: solid; border-color: rgb(169, 184, 194); colo=
+r: rgb(51, 51, 51); background-color: rgb(169, 184, 194); font-size: 0.85em=
+; font-weight: bold; }
+
+.quotetitle .quotetitle { font-size: 1em; }
+
+.quotecontent, .attachcontent { margin: 0px 5px 10px; padding: 5px; border-=
+color: rgb(169, 184, 194); border-width: 0px 1px 1px; border-style: solid; =
+font-weight: normal; font-size: 1em; line-height: 1.4em; font-family: "Luci=
+da Grande", "Trebuchet MS", Helvetica, Arial, sans-serif; background-color:=
+ rgb(250, 250, 250); color: rgb(75, 92, 119); }
+
+.attachcontent { font-size: 0.85em; }
+
+.codetitle { margin: 10px 5px 0px; padding: 2px 4px; border-width: 1px 1px =
+0px; border-style: solid; border-color: rgb(169, 184, 194); color: rgb(51, =
+51, 51); background-color: rgb(169, 184, 194); font-family: "Lucida Grande"=
+, Verdana, Helvetica, Arial, sans-serif; font-size: 0.8em; }
+
+.codecontent { direction: ltr; margin: 0px 5px 10px; padding: 5px; border-c=
+olor: rgb(169, 184, 194); border-width: 0px 1px 1px; border-style: solid; f=
+ont-weight: normal; color: rgb(0, 102, 0); font-size: 0.85em; font-family: =
+Monaco, "Courier New", monospace; background-color: rgb(250, 250, 250); }
+
+.syntaxbg { color: rgb(255, 255, 255); }
+
+.syntaxcomment { color: rgb(255, 128, 0); }
+
+.syntaxdefault { color: rgb(0, 0, 187); }
+
+.syntaxhtml { color: rgb(0, 0, 0); }
+
+.syntaxkeyword { color: rgb(0, 119, 0); }
+
+.syntaxstring { color: rgb(221, 0, 0); }
+
+.pm_marked_colour { background-color: rgb(0, 0, 0); }
+
+.pm_replied_colour { background-color: rgb(169, 184, 194); }
+
+.pm_friend_colour { background-color: rgb(0, 119, 0); }
+
+.pm_foe_colour { background-color: rgb(221, 0, 0); }
+
+img { border: none; }
+
+.sep { color: black; background-color: rgb(255, 163, 79); }
+
+table.colortable td { padding: 0px; }
+
+pre { font-size: 1.1em; font-family: Monaco, "Courier New", monospace; }
+
+.nowrap { white-space: nowrap; }
+
+.username-coloured { font-weight: bold; }
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: http://bulletphysics.org/wordpress/wp-content/themes/atahualpa333/images/bullet_logo-210-86.png
+
+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
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/theme/images/icon_mini_login.gif
+
+R0lGODlhDAANAMQfAKi8x2OLnzhrhfLy8pK6zvj4+N3m6oeuw/z8/IaltcbT2vv8/eLq7Xmcre/z
+9SVdetHd4+Hj5eLk5Ut5kOnp6ixifbXI0ezu7z2Dp5y1woy2ywpJaebm5jiBpf///////yH5BAEA
+AB8ALAAAAAAMAA0AAAVm4Kd1ZElqIuGt7Epo2LIaWWasC9atzRMEm8SK5MkEHCvGxIIgChQty6RA
+QmwunkTGA6kMSAUBwLOpFCffzsAisGw2gI3iQrpcMuU3gMPpYCiAFxMVFHwSGBoHEXyMfAcoBDom
+Jx8hADs=
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/theme/images/icon_mini_register.gif
+
+R0lGODlhDAANAMQfAIemtZK6zvX19TJmgSFad/v8/bbGzYeuw5qyvuPn6eLk5dbf45CquFJ+lOnu
+8Ojt73KWp+Hj5crX3vn5+T2Dp+7u7vz8/PHy8ujo6OXl5QxKaoy2y+rq6jiBpf///////yH5BAEA
+AB8ALAAAAAAMAA0AAAVd4Ld1ZEluYuCt7BpsVNGuF1BQ3exJBOCRM4kGYbEAixYhYMIkJR2PQWMi
+qJIWmgFEk7h4L6SLQaNhVM4VDulM0HDeb0yHguEgDJg8JqOgbA4RexmDgwcoATgmJx8hADs=
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/theme/images/icon_mini_faq.gif
+
+R0lGODlhDAANAMQfALnK03yfsFSEnNne4cvX3fv8/UJ2kGOOo4euw6rCziJgf6q9x+7z9T+FqIep
+ueHj5eLn6eLk5TyDp/n5+ZS5zPHx8enp6fX19fz8/Iy2ywJIbO3t7ebm5jiBpf///////yH5BAEA
+AB8ALAAAAAAMAA0AAAVY4Jd1ZElmIuWt7EplUtG2hdStiaJpArOSLoNDoDlgMMDjMcCbTEgYJ2Cn
+IVwupOtleoBUvtkvIQDYmDekM9Owsbg7Ekt7sBhw7hFJBvG4++8IKBQNJiUoIQA7
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/theme/images/icon_mini_search.gif
+
+R0lGODlhDAANAMQfAHK01Shmherr66fE01iWtef2//Ly8n+rwsfc5vb6/Jzc/X272q/k/2Olxvj4
++IOltrfW5d/0/3SgtvL2+dLv/+vv8eXl5fr8/Q1LakWIqufp6cXq/Y+3y////zmBpf///yH5BAEA
+AB8ALAAAAAAMAA0AAAVr4Md5ZElyItet7MqN13R4gTck3UV2I1NsBMils8tQNorfoaLzdDKJyHEj
+qThIl8zqp5BoDCSHMUdpcCpgj2FAYGwAmMVGQKpoBo8Hh4BpbEgaAgIahAgBGAALHAcWGhaPFoaI
+IhkmJBkYGCEAOw==
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imageset/en/button_topic_new.gif
+
+R0lGODlhYQAbANUwAO7u7/O7hIuLiwZml7S4u4avw7DJ1klJSV6XtPWkVCV0nPXZvPHJodrm7Rhs
+lq7K2fLl2ejv8nmqw/Pr4/7///jx6vr8/Mba5PH1+CJzmx9xmi1+pxBnk9Xj6und0CFym3ipwl6Z
+tnOmwGGat/WFF/b39zV+pM3P0erq6vLy8+Dg4ebm5tbW1/r6+wBdjP39/f///wAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAADAALAAAAABhABsAAAb/QJhw
+aEGYFK6kcslsOp/QqHRqMhUsw6wQI8lMv+CwGPx5aIUPL+LSar3e8Lh8Tq/b7/h8KWVQOCQUWRgZ
+A2xueYiJiot6CC4SQxQbLg1tlpeYmZqbnJ2en50vJg4daC4FdCoCBCyMrq+wcC0ALiBChHQlArsH
+vauHscHCsiURCA4WGByocyoHKW+6va3D1bEtKQAGpwUuF3Mtu3EnvsDWcQsLigwJri0lKCouVS4R
+L5goByjABAK9BPdACbxEgsHABQECDsQWz4UCJCUy7dK1qlWJFwdORMzUoEABIwXaNDCCwECLAgZK
+XCjQoISBkAxIJFjQYkGCBAEm1GQQ4CaE/51tbOKs4GlPwwEDXFgqwTTfChbYTojDqIKpVasGkhoZ
+YCCCggEFvvZBUAIB2BIDELQIQKLggrZsSVSISSLuXBIl3taVebWv1RQr5CnxK27XqhVuVujzG3Fb
+gWLcuJZooABBtxZfSw4gwLRuCbYp8hZky0A0T7ygPydg3BfA06RJ/mY7oEIFgBQq+gl4Qe52it/A
++XD9DbZAUqTzshr/2g143RQ3f5eoCzo0dRLQEwQPvX07ABUskCQJTvHFKgInVGQr0c/3dpfDUxTf
+bOClAflIjA8w4TxA9t8QXDdBChNcV0F0KUCQU3fbxcPCcS4El88JLZyg2y4A7bICg8IZcP8bWFkh
+0ECIAJilwIOnVPBbXQCwlRNbCNWlIAkxtljXBAmQAAGHv7kGXhJIACBkCuK8cxEKFgJ0AAEoCOmk
+k9sQIKQLAqTgCJAsRECACwgAMABtQ7aVAAQ5wpVCXHBFwBYAZLbF4pNwAoDCUye4kBYlQqLgjy8E
+qNDGHi1ktAIKhBZKqAoGqBABCgZcICQLBDBJaAPorXCCAQ0YygALhC6w6aBsefApCqIW6imnhqZK
+aGAs1KlANwYUCp6Fex6AoWIqqGrooKryuuuqvqa6QgO+srVCsIYSq2uvrW6JgAUcIHBsYLWxwAJ4
+uvVyAAvTduvtt+CGK+6xPakw7rnTqnCpwgndFACDCC7UJu+x8oJn7brmoqvvvt02kC+/39a2LgF+
+BPKAAwhYe229DFvL8MMQRyzxxBRXXO3AW0IihASnKOzxxyCHLPLIJJds8sgYD6ABBpFMknCrJ8cs
+88w037tukgpoYEYWFIzgAJf13Sz00EQXbfTRSCet9Lr1EWCCCzqfgUYIP49h9dVYO/FHKVIPgcFH
+RlQh9thkl2322WinrXbaCFiGhRZBAAA7
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imageset/en/button_topic_reply.gif
+
+R0lGODlhYQAbANUqAP6KGZSVk7q9vkFBQPG9iluWtAlnloyyxbHK1m5tavKiVOmCHSV1nuvj0e3L
+qw5mkvLVuvbt3d/o7Z/C02ygvNfk6/b5++vy9cbb5SB1oNLh6FGRsvv8/f39/u3u7/b39zZ+o/Ly
+8+rq6s3Q0dfX1vr6++Tk5ABdjPz8/f///////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAACoALAAAAABhABsAAAb/QJVw
+aCmAGKekcslsOp/QqHQKAh0sw6zwQnlMv+CwGPyYaIUTbwHzQaXe8Lh8Tq/b7/j8J4RgPCgdWRoZ
+BhglKIiJiouMjY6PkJGSjB8FJxRDHRknEiWeniQBAiSfpaanqKmqq6ytnykgDxpoJwcpiiUJAQkD
+vaKHk8HCw8ElHpdCDwa3iiYDcCgBvSTE1dbVJR8eBQ8WFw8HwIglAQEo2SECvAni1+7viyUhHgi1
+BycYiyIDHh8fKSKk+WoHb1yFA+4UOBAmzwOJE1VOeDj3qVyIcqPe7BswwpXHTyAKUPz4CQCBka1C
+iDBxggGSD6X2iRghwsOIcrcG7IKJ6uAB/yMIPEkwUiBoCQQhC3jA4DJcBAIEFBD4EFXhIagKpHoy
+CYFAiBJPI6Tas/KEAQMnPvkrRw6jiUP7QiQQ4K9uXQRojRhA4OHsAQZ7KxgIeaLA38IlIAAAIFUB
+Y8cESizOalIygQYAHFAFINau3RAmWCqx62FAaBMOBeAckUDE3BCeYdYroM2A4RMI5tnGW0DCgaBV
+/CmOHKFyCQULPgBIfjx5ZcaSFcQmbYIE2iR1LyZIgXEE6onqQgwgEaK8+fJ4c4cwcs+8kQ8gzILI
+bQS2YgchFC9YvDyESdgEOOcVAZn9d96BHlSHRBLncVSCAKqV80s5DQwgwoHlfYCXAOVVcf+AARKU
+xwAIfIxQAFohVFGeYhDkZ5IDXXllYID+TaXYcg1geN5K1pl1gnnljIOITaqlMJcA/OjIx2AHGfCb
+bb45+eEB2/xYn4v4+adAAw0g5x8AECimgAcmeeDfAgsoWZ4HIpDwUEsSmSnQAHOZcAscHKlTkwd8
+9knPdS1daEkSDJBQwYK1iGCJAR5AsIADfAa436NkoolmAx4sQICZAW7q56c8jmCWJRWwWd0IdPJC
+pyilRaCLCSLEKmus9RwgAAIRxEokrmyKACFNsUIoQgMOwMqnCQ4UW9OLDtQkggMNxBpgs7NWu9II
+ojJwDwKxhrYLlw2MoI6qrgoAq7Ui1CPvALroSjCru+zOaoJJ8MpqQgMEKhBvtySIW5gFDxRwmglz
+lgMtlyREMIC5Aw+MlADuNiwxrAOvRPHEoYkglcTDZuUdxqH1O8I9B6iwwQkDu3nTLr3oIkCFJGBs
+scUg12zzzTifKoAfWKRRgJtAq4ytaqqOl/PRSCfdsNAQIiMEBbUEHTS2VEMo9dVYZ6311lx3LTKE
+BjxwwRAcbPIztkCPIDTVanvt9ttwX8022GVowcEGaiCAANt89+3334AHLvjgfCMgwGF1n6HCBHiP
+4fjjkD/xxyyKD3HBT0ZUofnmnHfu+eeghy566AUYhoUWQQAAOw==
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imageset/icon_post_target.gif
+
+R0lGODlhDAAJALMJAAAAAP///7i4uPf39/39/fDw8Onp6dzc3PPz8////wAAAAAAAAAAAAAAAAAA
+AAAAACH5BAEAAAkALAAAAAAMAAkAAAQnMCVAqbwShG3x3EPlAURZAuOgDgeKAUght2Nh3IJ7AYfg
+56OKSBIBADs=
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imageset/en/icon_user_offline.gif
+
+R0lGODlhSAAUAMQfAKRdXQFejbc2NsNhYcjHx/n5+evNzdOSkriGhuTk5PLi4urq69Cfn9TU1PP0
+9c7c4rizs93d3f///97CwrTJ1OG5ufr7/Pv8/fDw8Pj4+XChut3Pz5uwu+fn5/Hg4e3t7SH5BAEA
+AB8ALAAAAABIABQAAAX/4CeOZGmeaKqubOu+cCzPdG3f7qMFfO//wKBwSBxqHqNH4CFpOp/QqHRK
+rVKVyM/RUihkvuCweJzBGAzms8GTWZPf8HCBohEFLniLfs/v+/UDAgIVggcCBxeHf4uMfA4dAXZ5
+jX8KZ3uHF4YYFop8F2cKe2mUfAULEZEfAV1xZIaCAxiCtIITAgidBwW1gxmEsQauX48NqgEOycrL
+zMoGuAsMAgy3ABUIAgQLhw643QIbGwIDGeMetwPN6hgJxnYOGPHy8/TxhhELGAMAswgOhgn6zTrQ
+L9+AAegOHAiUrx49VO5WYVhAsaLFixQNVdy3DcECbBShifS4YF81APsAoGBc2SECgWMLOiSYSbOm
+zQTSKiSIMC4BrgT3fCIQSjTBvmdDgQ64yTRCg5d2dkaYSrWqVaeFBEHgiSACtqm4uIqNsI/sOGwA
+rqp9CuGY0wZw48qdC5cAgLsQ4AJA0OAAAAIN9gbmK7gBAgBPDxemS5cAhLYiNFB4SqCy5cuYM2ve
+zLmz5scc6nxQMtmz6dOoT3NYkmRHkdewY8M+gqN27RAAOw==
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/styles/subsilver2/imageset/en/icon_user_profile.gif
+
+R0lGODlhSAAUAMQfAODg4MrKyvz8/LfM12qctvGgLf6uRIaktGKv2PLz8wZnl9na2jBcawBdi83c
+5PnHYkOPtcuEGo691DNyj//4g7+umLeSV9jj5/fGEurq6h11ovf4+DZ/o///4VeCk+3t7SH5BAEA
+AB8ALAAAAABIABQAAAX/4CeOGQAsC5BlY+u+cCzPdGkVz1NUKu3/QB+ggqF0KJhIhRVsOn+ACMZS
+eWCmi6d2K3IQNI2IwVAYGyyMhnrNbrvf8PhbQ3CMHAqHIGMx5P4FARsChIWGh4iJiouJeHYfdYQJ
+YmZjEYKMmYoOEheaihsDBCIKhQkVZZURA4OfrngcEgoDArOuAgkZCiINhpMFwMAWGbefCbKsAwm1
+tJ8bJQ28hc8VEdYRDAwACa2JEBAKChCEEBwKBAkECnQODhwNE3i0tgPgGhKgGQvRHw0b/wkAcGBQ
+gQoBBBwCcPvHECAEBhfwHNjAYcKACxA0DHBHIJS/DbNAstKAIIOsCw0b/57g5y9BwAkSEBwgRECC
+BA8ZXOrcCQFdgnI/fZ5zKaFBggFGE8xSOmCAggkcIDQ4sHPnSl4uMxxAgEACB08QYnLYVlUnB58Q
+JvykmoCDB6JGkbpcOsuphKYHHJTNBSAAS5cAJkDgisCDg7AIGixYwbhxxgGyDmQ4u0LWXQ0TMiBd
+MUvXgAwaOHBSIKFx4wV+ea1YwEHDYAQPv01gsNg044oNGODMQEByhgsH0nhYvOBzBovHPw/wAI+A
+7RV9U39QUAL17GzYDxwIkMKEd+9nv4s3cWG8+fPiUQSosAvSANQB4scfUEG+/fvx3caHj7+////3
+VSDBKB/Iwx+ACCao4BiCRWUhwgLqyCHhhBRWqMY5j3Ch4YYvhAAAOw==
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/images/spacer.gif
+
+R0lGODlhAQABAPcAAAAAAAAAMwAAZgAAmQAAzAAA/zMAADMAMzMAZjMAmTMAzDMA/2YAAGYAM2YA
+ZmYAmWYAzGYA/5kAAJkAM5kAZpkAmZkAzJkA/8wAAMwAM8wAZswAmcwAzMwA//8AAP8AM/8AZv8A
+mf8AzP8A/wAzAAAzMwAzZgAzmQAzzAAz/zMzADMzMzMzZjMzmTMzzDMz/2YzAGYzM2YzZmYzmWYz
+zGYz/5kzAJkzM5kzZpkzmZkzzJkz/8wzAMwzM8wzZswzmcwzzMwz//8zAP8zM/8zZv8zmf8zzP8z
+/wBmAABmMwBmZgBmmQBmzABm/zNmADNmMzNmZjNmmTNmzDNm/2ZmAGZmM2ZmZmZmmWZmzGZm/5lm
+AJlmM5lmZplmmZlmzJlm/8xmAMxmM8xmZsxmmcxmzMxm//9mAP9mM/9mZv9mmf9mzP9m/wCZAACZ
+MwCZZgCZmQCZzACZ/zOZADOZMzOZZjOZmTOZzDOZ/2aZAGaZM2aZZmaZmWaZzGaZ/5mZAJmZM5mZ
+ZpmZmZmZzJmZ/8yZAMyZM8yZZsyZmcyZzMyZ//+ZAP+ZM/+ZZv+Zmf+ZzP+Z/wDMAADMMwDMZgDM
+mQDMzADM/zPMADPMMzPMZjPMmTPMzDPM/2bMAGbMM2bMZmbMmWbMzGbM/5nMAJnMM5nMZpnMmZnM
+zJnM/8zMAMzMM8zMZszMmczMzMzM///MAP/MM//MZv/Mmf/MzP/M/wD/AAD/MwD/ZgD/mQD/zAD/
+/zP/ADP/MzP/ZjP/mTP/zDP//2b/AGb/M2b/Zmb/mWb/zGb//5n/AJn/M5n/Zpn/mZn/zJn//8z/
+AMz/M8z/Zsz/mcz/zMz/////AP//M///Zv//mf//zP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAEAAHUALAAAAAABAAEA
+AAgEAOsEBAA7
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://www.bulletphysics.org/Bullet/phpBB3/download/file.php?avatar=2.gif
+
+R0lGODlhSgBHAPcAAP/Mf/+yP//lv7+/vz8/P+Xl5bKysszMzH9/f79yAP+fDz8mAP/4739MAP/y
+35+fn/+sL/+/X//rz/+lH//Yn/j4+N/f3/+4T//Sj//fr9jY2P/Fb6Wlpevr6/Ly8tLS0g8PD8/P
+z6ysrHJyci8vLw8JAMXFxe+PALi4uO/v79+FAJ9fAC8cAB8TAF85AI+Pj6+vrx8fH29CAF9fX08v
+AI9WAG9vb898AK9pAE9PTyYmJkxMTHx8fIWFhRwcHFZWVhMTE2lpae/Pn9+/j/LSojk5Ob+ynwkJ
+Ce+oP+/o38+vf0JCQsy4nKyZfJmZmQAAAP+ZAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACwAAAAASgBHAAAI/wCjCBxI
+sKDBgwgTKlzIsKFDgRIeSpxIEcMGCFBOZNwIBQIEDAIoiqQoIQCUkyhTqkQZAMPIlwkxbNR4kibK
+E09spjyxISRMmDJXCoWy4MkTF0M7/hQpgGNSlCuMSm0wlOfShxifqlQgtSuIBAqGuryaUEJNoTpR
+NujKtoWKnSgvkD1oVqtQtniPJp1LEENau0Tz5v17km+UoIBVCs4bduhcv07hrtTYYjHbBJNTXq2b
+OGUCy10XAF7aeSXoroRXyn1ZWqWK00ZdNLY7tmLkm7jPplwLWqXN3yhHthYa1sXiFa03UNyQOuXb
+2UNVVMY7/ATFxFFbLGiAAyX0k1G7Yv8eDkFiVt8ri+IF4WJFgrcpjT9pkRt9Zp8NEyuYbhm5c7fD
+oaRcQ4jZBdt4AVblUGmwJahVbQk1BVxmn51W1UYeQXBRABpCwOGGHXKoxAEkHuDTASgMVKBWvFnW
+wncpZfCSE03QmGIUNQ50nl00nIaUUAO+1IMTRBJphBM9DMTgaSvACOFIRUaJ5EAaEZYWbPCd9eRI
+QyKZ5JEjCLTiUzhZqFJ5V0kpAQpTRpFBcyqF56Jvc3WJZApgCrSBfnIuJlpKAcylJptJRsGcU1ae
+pEICLtAAAn9GUWXTlkIW+WUPYRqaYGMnrOBCUf6hFBFZNBa5JpFiwqkfFFmihN9Sdvb/gGebe7YW
+VliLNtACCE+EetKoaUa5Zo6HVYmWbys0sACkU6lEKZdE9nBpoWMm1aKfKgW51KBtSqAqVA2qVKel
+s2YaxarhpvQsRdwWeq596GEJF1mxRmEEpgPVChivoPl6UqDb1kgkim0e1pl8lv25E5ovpWCnlwW/
+C1ifgr0o1ksHFNkEChKk0IS7UUCQqGfpInrSBiBhIIEAEqgsgAAuw7wyzE4cSWSKAqCqYmclO7jS
+Q9+edKDPQq3WkL5P7cck0T9LVJ9k6nWlXQMrNDeyyTUBjNXERzXwHhQwMp0SsEAn+Nqj86Vd2doB
+avtQBg72nNhLIj9tN6un0acbvDWRhH1dgHI/+FNTrb12WthDaQ3UcKeB0JniP8k0oX2Gz5lZ048t
+2ZtdkJMloV2VW8a5YQRJsGNSjQtOekGH7o1S6BXf7ffqEGkVOBRu015QtXgfvlPuutMllHvu4ZBA
+8ccn0J2AwUsEs+tJaQTBq81PJMEGSKPkEcrVd+/99+CHL/745JMfEAA7
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5----
+Content-Type: text/html
+Content-ID: <frame-32-bf3a06a1-2a25-436b-948a-9e13baecc272@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8"></head><body></body></html>
+------MultipartBoundary--fMg4poopiPEjyyiZPTrur80hIwzf2XBDtZZvT8D7c5------
